@@ -8,5 +8,8 @@
     "launch": "node index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "download": "^8.0.0"
+  }
 }
