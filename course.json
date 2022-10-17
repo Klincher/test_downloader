@@ -1,0 +1,1010 @@
+[
+    {
+        "id": 5516436,
+        "title": "Introduction",
+        "type": "chapter",
+        "order": 167
+    },
+    {
+        "title": "Introduction",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_19-24-59-0e49606a2f9d9443fa9abc628871f72d/1/WebHD_720p.mp4?Expires=1665745916&Signature=Zs4UO0jazCBuCfKFOwAuDoHWbs0gEMNdnrfBjfh8mdKr8HXOJe95cps-VAhzDUXjKleIQ~DVANm63tpYyskGItudvU4FZDhNHcMrBe5wBq9mBZpzuL4ruipjfiFMde67-RpOunvbezRwGLJ4xJntS4LrGQsl5bsq-rwxx3AAR8ubsc9DVfpwCmcZDOjOazhXUuatwTnzRgqCsX6omotb1zyGnviwfyzUIYILgluDKZd9I6NtYKIoFpjV8m0ynIkddrlAm1qAR6srQqHcYg5riX~VckIFwtKx7xiBPQcru14hSEwQyJLQDUzhRKayAblX1AohRe5F0bH-jhccV37lvw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 166
+    },
+    {
+        "id": 5521202,
+        "title": "Laravel Admin",
+        "type": "chapter",
+        "order": 165
+    },
+    {
+        "title": "Installation",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_18-26-30-b133e089d1176a5491df0c44fc75e7d2/1/WebHD_720p.mp4?Expires=1665745916&Signature=IBzB7gJtVte4JetXLRxIkjweKvpRngTImkuEf5Q7umpXIL75MaLNIvZvwSKr4PiDvTbvriYlo05KfJrvNvOi2pHQhEAoKgqGsvY~PzYJEGoRMqWkVWdB~HHHR0IUem3CJm7UhIyzab5-Le12c7atYpam1hCFWoqxjeP6ufnRfVPIjJ0cv45g0kJVLH5f75cWALT6bnbIydgFTADNmwryaZG~Ooxynv4clvtd2fnRH91ojRFPjcq5R4WqpjTmuhrVGjPBAM5GerCboSF-Vsoi4CVsoQfZqokpBSTxTOWAvze1mnyLgzBhzBnjC3b4joX1OImFJ2EnDIbfkQK78Mc-Fg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 164
+    },
+    {
+        "title": "Docker",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_18-26-30-5f17cb76f58caaa6dcac6e91aae9bee1/1/WebHD_720p.mp4?Expires=1665745916&Signature=A6Uw3-53x4eVZVOeZBgKXwFKeEN70RM6krzL4V3viqAqR25EpwDipxe2iiCwFWEb9FKFtfdnppZkIowWfbJcLy5FXe9mujj3719LPHaWGzznZ9mXVQxmKX4Wf2e~xZgNb1kZosNOv6wF2~IGEQuTZTFcBpUvesCpiTBQzvfNn1phE5tNsMNs3YIpKTWhEUiaWujuQrAmeSneNdNZg8YazyWSsmIwrSPQtGiHduzNBtAdH-RFE3pq8e00ceJkCA0mwuazhExnsrhBGPZLVZL8S~W7HFhYQYLfN~CG76n1BhuoAWKp8xlOoIERpw12KfLwrYzMkOab4csJRj8cZmoTTw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 163
+    },
+    {
+        "title": "Routes",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_18-26-32-e281914f2d1b2577d48ad2bbb18edb46/1/WebHD_720p.mp4?Expires=1665745916&Signature=RdJWq-uSOzgxK3BDSUczv83e7oTRz-F95AcmGSXxqCnZNaaez5wPWnSA-zcrgaPbfQ0LGVNOX9ct~uoJBV0sEwlwmUXuk7o-5ybzu6O0xJUqYVOGHzago-5SWJT~436OVojozKZKjA8cuqn2HvNlFbPWXX3np6nYxQ-YM3u28pncQTRSHSE29ZRee2KzW-wkwkhzI5L8TmkYTyji2EtsAPztKVp5fREIGIVN31rgCQiS0gniCNE8pymK3K3w09bzX2~oIfsozAS5xScjw6ezNiBIYOCFTWeJ1KwhYhz3AvlEXzRuqX5H877GSXTLocSkBVqcb6McOd3H7k37S87YCA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 162
+    },
+    {
+        "title": "Migrations",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_18-26-30-d1e0f1bb2b816a8df86f3029154fa529/1/WebHD_720p.mp4?Expires=1665745916&Signature=ebqrDZhk-YWEs6rY7fiq1ki3YS7d-iuFQhka2Mw4xgnclTP-m99tld07gVynxG5LAu1tHC5VVxngN1yLEFrjrLO8rpjrS-hfrjR~PLhApquMbePRcvXhq2rQ9qdcrd~XXxluGkgN7PBFI46rV6voxUjzL4OpaVG8RA4nAHXh9skFmBePqd-0FlhyfdWfmJAqZ1rwIbr7q6pSiGqzrrcFzKYgC0HdR3Bp9p2p3g1iQfIvh8jsexOxGfceDiYN~oL~ySYhujHUWJYz0friBCmOmZMeDoP9X36ela~WOu63VRLnyULiw45R~ro3wWFtBxJIv2mlSgqUdp0ON4bYn5Wj8A__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 161
+    },
+    {
+        "title": "REST",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_18-26-31-2e5c74ccb1e4b66212ef299e9226adc4/1/WebHD_720p.mp4?Expires=1665745916&Signature=k~EkYqNTtdvT8i0nC3DhL20JeeaFcQyavEHyXPpfNQ2AzRnt4bShKrJ4hf1t8Z1pPtmpk-xYusPEhxgXg6TIgTw-TL3cjklNX6jTwGxOh1lDDpIjyZyTMigyUAfFwdITo28EQvC~HLhijUPGXH-Loxe4IGnheEOikz6mMQHHXKDHGErINahgC3iWDsJbWNfvQbb6qgTx~dcSCATPlNdM0M~X2VptadqC4ZZxVV856jnRAyqA3Y~zDv3hOqPCaBCEO2~y8nU3PyvIB5xL9TJraq7cz9VtxfEy7nUByCq0SfTsxvcmcgK5wyJydU4QqNJtiWCEWDTavPdVhsaGaXi6qg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 160
+    },
+    {
+        "title": "Custom Requests",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_18-26-30-c57098e834119b845f3a243ec15457e9/1/WebHD_720p.mp4?Expires=1665745916&Signature=GFWOd8dRdjxa0bOAUaB23c~cp5OXXZUJeXTdBp2A7TZ8ma~ePccPAAentYPmOfuEZ1t0cmKf9PlcHYsEV0WceZ0XdydI5MNFV7ZnQRUq6bLo3kTHCfGi6N9vXf1qYdLAGdHHshdCGKcNNrO9mg70PqvNK4dV1grNi5e5hp4XgwZYt7MMA6ysUztAKiBihZLT3hozyVX7OWK98p1h5M4YTik44Plig-0xyo~ARVCeQ72JGeIYHT4DeufTjpJMRcNfp2EcduQGFbmdxM9aJtZNbwTa~3gR1nybRxW19Auxlnh6p2JXwWQx46-gMJFDIUooF~A9NLq7ixbiE4m3-ydr4g__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 159
+    },
+    {
+        "title": "Pagination",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_18-26-31-a6a05a9aa702e2922822c00cf1fcd4dc/1/WebHD_720p.mp4?Expires=1665745916&Signature=cO~dYTcwVeLESr4E2zUtfvTXAl~nKI2mB9dIl-oXqqj92Y9dqdFE0fk2lsEa3p7m~S-SIGWh~q6fIxqSPbOY0mxqudEyQA08hfA2l0NhiNLcAWARwIGfZktQucr3b0HOQQ-Z3vQrDtz9f2~EjhQFsC85E-pQyXuM~8tnvRq3J1Xx7zgUh73K7t0kQv8B4SuSchF~DYIaI8w2buADoZ9Bs-ejNlqJaqxwTKaui9kepxa1fHx9JHZhBUwRMMhFmdOsrhduep9WO~nhx7QE~YJqLmsMhFOYgTjXL4uBf9RBzgLs9YEKJxvDYAActkLI7TmRFBRRflSiVNRwh5nZlns1KA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 158
+    },
+    {
+        "title": "Laravel Passport",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_18-26-30-4078eb4c6f66be3d4b192b8c27eafc70/1/WebHD_720p.mp4?Expires=1665745916&Signature=j3D2mnxuNmL2PgT6Gv54b3yVYsJHkaC8wcNBnS52y0xEPPiUP03vcoMPmla6OCwghL6i5qivSZx5bx1QhvH94AXSPfYjlB8CT9pMp3BQU43baXeu58Tu~X2xbP53l--SDdxy4Y0lXwzrZfjVdhUEV~oa0LJjlC8sBHeXhCyqenQfp1fm6GjcsUn~4Ib~bJI0PxAXooH5lr60PU5IIVR0O1eWoUASrvSYjVz3wFjoc6e1HfhUjGHhp3ny4saFqiUNB1dHNfogwaKqndfmFn-i8Hq0n9Xtkw4~Gij5i71lKFvfqwvXlicq7sP1YGHbaowtJg4yoRzQ-nugbHpj2nYA9g__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 157
+    },
+    {
+        "title": "Login",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_18-26-31-6cf9be4e1d520f0ca22c067860548a8d/1/WebHD_720p.mp4?Expires=1665745916&Signature=REChXyfXc-PbWdTPnUQc4c5FZy5Q0s5YDCualI4QSqWL8-297Tjbg-CA4w6ZC57VzjnDGLz2bF9D~lsEAiZQoW0AS-U46EuwqCdJ3x7TyG8t7L1NA2kfpKCd~0C8~XfGFFpjHPyHBTIOkb610iPFUVylMP9gSxdJzYTcHJb3n34ceGDCtshym623XSkeZhhUKMMTwK8YIX9gRVb~CFh4rymM~DP1Prs4KWG6z4fzoFb0YvIBzJ6jYsS-J2Uov~yTcpYeUeqVEI9PQkl6sdEEO0~PMvwZXuuiQRETeMp-AmSABPZDOKQ9j8bokFvKBFdN7lkXKF3m613UwNowfvKrwQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 156
+    },
+    {
+        "title": "Middlewares",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_18-26-30-9376fdd78e6f61d7002611cd21d51ca5/1/WebHD_720p.mp4?Expires=1665745916&Signature=OftVIk35~YrSqofa8e0v0ngLF-1qb8SWv1JndLJ~3XGzBGeunPxDGvlqfJqPrahSlEhr5pSLjIpO8tFeZooLuRV9i~wXP8wJ3BYdClzkMVUk8Gkttim3A3Z085OQ5Aoa~hgCnYGzMHx6akjA6358qnsWQJB3h5-yCm-KUZIwKGQpNClyqlQnBuRtM1XF7ICejM6nUFiiC6u5QqhdNtLDrhw2VgOsUDiKdMY9UG5PrXUjeKGVq7lKEEWkj88kuyUU8lLKWXyMUlCLanDGZKlTDuN1Wfm7EnAbL-c9KBOKaE6Ksf1CZyiKkGhh3sWxjIuqHR6hbXJde6H-SVKpzoNzbQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 155
+    },
+    {
+        "title": "Register",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_18-26-32-a2c32b9aa64e16b5727b7b758736b8a6/1/WebHD_720p.mp4?Expires=1665745916&Signature=JJkDVJtWsJBjnZwdq9fimpBo1pizU9oivGKGuxHdIECjjRKsTRvCYJPUM8Hevl3V2RadIdjibthQwA5np46GFc262sodZOGETrlO3M-ol8xf9Cdl8GW8pWl6ysK9u~sO~aknaVDTcZ5FTVUxS8wkuqSThZBormaI-orBhXr26T4SjLkDhDpglDLiK3nhRBTahMyB9gKu94mBbif7qJPhvQzxAQkYUkQGFAnnOuOEotkDuX4XUSAAkZCnXiemL5aR~YjBS8BoShURia33H4JvSusoHBTHrYPzXL8xgcONJABEI7lmkM4PuTK4BrpCsxJFAimqTghlTS3bhkRsw0Q-Lg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 154
+    },
+    {
+        "title": "Profile",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_18-26-30-9669f90c7219878e3acadb03af696677/1/WebHD_720p.mp4?Expires=1665745916&Signature=aPFExrPE-f4HXzl6yM54Sx1ncHEwjLMGgNzD4DaLDZXCXuFcSAuACTQv1gJCctnaFgdWzzXAoOJAzFtO3mm7LVgQQpyKp-ulcM86fKIS-h~tzgZRlHBJlWrSiay6c0CwArwxeANclvBdUXvMbfGnj7EbCAjBI1x6Ib8cDPqMpqoy1ojX1ZLevQgm0Ez7yv1~YDCQZDS4S3tZrrA4P8jHMhtkIX2GWOxkaP~jxf9b~ViwnoqV3qDIsLk6hHL6T5ZTMe2uBpqPbjc0j~algR~yYwxfhANEsDoVRtt0gcdHabiNaVwSjLvK9r8skek03BSrJo5AGdbdo5MFP2LpKUOhdg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 153
+    },
+    {
+        "title": "Roles",
+        "url": "https://mp4-c.udemycdn.com/2020-10-31_10-05-14-7d59beb9a2eb3f5876d906a379230085/1/WebHD_720p.mp4?Expires=1665745916&Signature=HN6ii3aqLaCiX8XOT-Jrph8GbnvgHbpZq-c4TAyv9Rb4tJxEpMNNiWsVLgY5a0MBvfHX6~wkdoaXKgY0ZwA1K4pOgd3ALvaXlpMHCnrqzbOSFzLyOrFLnz7hjbPcckroCtDngWxLb7-mI3BU9ZiqwKNwiOrlCQCoTAYzKK34qGyVcicGfT0CuUp5DU82KaRlf1R-TYQzwX-IuWLCfNdAc32gBjlYpSgpndm5QyObUkTLBaYvzGYDfHuRKPTXBSrwMMh30upEBypU1QGcd1rpYUZ~1WSO9Bno5c4QhJgDoc1ZxKGXRXF0t6pXOSHJqeIq2wGmuiHpRKiWbHI3sNiL4w__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 152
+    },
+    {
+        "title": "Foreign Keys",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_19-08-56-1dd5b3410a5e0b5f11ac6681cd2600cf/1/WebHD_720p.mp4?Expires=1665745916&Signature=Fj0nR1ZegzF43Fv2TWqykhYlMxnG4OWbVqMxrW3QKDZ10A4Zw93HI8PBHIfsFpEarxC1gr3h8usrfb7Y~Lcidy0mVJPQ94o23mnS3b4k5gCBlIzoRGWF48EepBLOsI-JJNPSq2Ud1zuLVVDQPIC6CLYS7-WdZyL~kyIy3EPOL04hICSIb~ldF40QxrKewdKIG4GVa3iP3rTF-k4EGrSrZcX9hB78ZwSWrKVZXgAEUMXkCoE98Rr0AsrVR7Bm218pm~zo-CtGqTA0TgdG3rfQ6RKvBITEuoSdiy9z-4wpABRoVNwP9Yhwk6myfbNUt012dDdI2jWtix4QTgRrlg3fNA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 151
+    },
+    {
+        "title": "Api Resources",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_19-08-52-c38cac5a09421519316380c0356db321/1/WebHD_720p.mp4?Expires=1665745916&Signature=RVm1HpfI5P7oY~7RXTY40doISYAc2oFDSvPxsBJJyKUWg7o1hGF5kgtT4OA5LrwOzcVlH-oRvCec9rUewqtTFo2pyaNJbtD47FUvPv-AV9-9p-qp2LmjazcwOalwZofRD11NKwtL~47A-e1afCcxPn7J56ko8U7v1CcX8QCluHG1m3Tto8gvtV4Ma4RHNIjG1S5pq6gVVLJFfq7-OAmTYumQ91ufTktIa9djPlPfKkLn9nDqc1WUnz0EW-tDGzsggm0iLcK0fN9-p55vX68~M1epqQHNSKOYBv~FRTzaagEpdaPvXsTcoQCOW6J8NRnCQKebG9KYgREJak9XMo0Szg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 150
+    },
+    {
+        "title": "Products",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_19-08-52-2f73d796ba7adf5f3bf2ed13a5397d62/1/WebHD_720p.mp4?Expires=1665745916&Signature=G6y1GRKVexlQKDjtae~Ne0gosJkFYumqXyKAawX6oCXB3ihGq~GBgKIYBdm3JklMRFFRIR1Wjf7xKzx8PVrrC0A1yofmD5E07uWxLfHrKUGP1yRJLK9phS6IcXwotey-nGLySTBJry2EaIGsgGVxPN1zerw3iL~NIdDvxg112NMZwsIcKJbgeiRnE2vfwEC4HbOxnyNzacJ8UPDOICWyp66nmyXaziyxHLR-6DN8rYNp2XohvYXjGVq3nhkqQqQ44iVc34LjlG2wRM6RJ~uTYM95zVJBqYaAnFwAoJV0TbnaCmrK5-GNvoJT7fc~w~dZAI5hpJhx5Lh4Ap07RAuUyQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 149
+    },
+    {
+        "title": "Product Routes",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_19-08-52-1e67263832b934822680c0432ca483dc/1/WebHD_720p.mp4?Expires=1665745916&Signature=BcyfO7wNIBIP7EaPFDE4zMZ0RWAYdc9XH6I8Wjgo8m4oig1yU6-EredzGnyCZ3631kzzC0LfIgSBdF5ui4Z9ZLTXwRG4ua7k6MtNyOcWNUobWAQetf7yln6Rx92zzrN0XzA5OCVao1A2sgUHWfw1f-Gt0W-11LmEcG~VPjFyi5s2a~Kq5BrVufFTcOp~tFUPni1oiq5t1Sn2JPfa37OSk28gEZ1ajLIggMzlAeO1Mwh7LdyN4QskC6Pq0aKPHRWcz9C-XOiEqCAIwRkX~TuCkQZzdwnimY9dJ7AcoZnwSfDOwfeneC4w2B7HtSC~kZqr30qevSY72bvk4i6e7av4UA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 148
+    },
+    {
+        "title": "Images",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_19-08-52-f7f2506ce46ac1cf822e5155bc1bc9fb/1/WebHD_720p.mp4?Expires=1665745916&Signature=TFzMdfd1yap~gZrfikdEqlqbJhj~r5mIyp4ouEdgAxNYM7rtrZbJBviqczTyBgJAY65V0W7OL16bJk6PKY1ZnnXAKB5YdC5Hk3d92X0OMwFbXdCqAvo0eoU0FLSBY4pVDjmCCKnNRJxD4vvNEEJ2CsJ4~73Q5uTJDgioeYQg1LOW-eoUKIcBTyrFp2I1ApYCyTr8RVrFQi1m35xzJIQeNz8iMYTHTHYnj1GT3DCxDnljL2aMipz4lCvPJhMkW~wKDMLx2i71BAZwY7FcGOdvhGahz1oDA5PoYUussB0bwSxDazEANYNZAtoUEhaLWx7tPiVktZwXr-9sZnID49rxIQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 147
+    },
+    {
+        "title": "Image Controller",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_19-08-55-4ab5b371ad11e3c0e0286698ef8f7853/1/WebHD_720p.mp4?Expires=1665745916&Signature=erofc2yclrrNGVGlt-ymal-Ytlq3rWBPY8lbx9rORbt9pcK7Lx6zrjAsOuLqY2ynRV-J4JJVItyJ4AcCPHxCGEWVTATGmyfzkNeEZTJFuG2gNRfGL1D0BhGKTmdnpEk2fazmzeX7wodnFxIOWJHHq7KkUkyIxKwRisMianAfbYRJCi89nncnxSwQCVGOdRvOAMf5CmY~ibqWtHZ8LB6JF0gDCXgHF8vboiuKXqvBRVd0unsRRiAB4GaOg4rXFSqLLBk8K9qwS7~yCE8rirZqFWX4aZYNw5mgJVgnsqPrY-YFsaHcXHw6uGsoWrrdl7HOB2svK8o0V1vdLNh20n5w3Q__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 146
+    },
+    {
+        "title": "Orders",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_19-08-54-c5565fbd796a3f2b6a718f771dd8d275/1/WebHD_720p.mp4?Expires=1665745916&Signature=i~XH68Eb-OzS5kZGZLHWt4~gudZ9U4K3MOY94KmZHhZDwIJtUTUULEPMRcNtXW6FYCGLIz1-rYAfhTUeMF2PAo6CY9p7LkkxBFGvCil41xiPZwT-XeGPWcEf4bQu6A6Rivm4uZ0hJNqGbSOd5OE33G-OZUQDWWoVqMKHW0V~iClzt4DxmXhddm7QozAmkokiGJCmXeTTXoNU9cCRE9Vc93~IS3bwLOoq1~jNQOUPEFMnfjVXlq6T6-7H23N8qWW7TEZALZqYYmu20vQYIYM2HXfqf43PiPjwcCEN2Mjb-llzoDcaBnz~mxfdJIEXIGFuee2gxAgbzsft05Bvn0NoAw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 145
+    },
+    {
+        "title": "Order Routes",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_19-08-54-2f0a0feee49fd980646ee5ebcb75eede/1/WebHD_720p.mp4?Expires=1665745916&Signature=O1PUICpUkXeMTLx0ajTHQyU7SNJeGjZCnPlMbvcbveGZdOFqLWhPfmzeTpPAkmT6gSTB8nEiltCJOsUOTKlyRUr9CDc0lJcQM32uGBEIn4xdZnb0dccNkPRifyZyK~vQarcDtwnWnj6kw~fg9pE9KZoUg2rGOtk4alw6vvzfOm-ZIssk2jUqOJyrLm8Lv4rtY1FltsvT~0d2dHOkIRcMJhICscueJVv2pZ6voC-8QJJcNlNQItwiBWISIIDHdTHv9ZaUSkHQvjLPQ5W5Y33tP-pxuF~GNyRERoiWR4oKL99-VtPf-doHDE~ZcXDEhBPvUlQxYkkYs-YSz1MEVuSH1g__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 144
+    },
+    {
+        "title": "Order Total",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_19-08-55-538e1b64bc624d9d5cc64e0693bb09b0/1/WebHD_720p.mp4?Expires=1665745916&Signature=B3exTxhSLAN0hg1GwNCLLUBoq1CseJJm2d51QyFk65y1WWpr3Em0dZkKzFxXLBoTKZeZQBsce2RiFrZWW1bsdksOO2BrE718ooKFfB8p-vJGDoX-sOCI8nQZj3UCNJb2w0pmYhoeu2AhGGr8XPkxWAgQHqvomP9KLX89Ck7NOoeeC5073yDr~tRc9uP2ADjU77AyeV32OMKLt0ieJt3oer805jHAsLfKm8GV~tYSp0GsnD90pOZ0hx0voYylcGRxiU6XRKExjghJl~VlVGjZXbpdZ5Pu9eo6o2F1Fg~HeGeSZyfWJVHJIYMpbAMaJfyF9Ef8dbRVPvJ1vRN667nE8Q__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 143
+    },
+    {
+        "title": "Exporting CSV",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_19-08-56-64bdadf6b3c1346c19b6f764f385469c/1/WebHD_720p.mp4?Expires=1665745916&Signature=Aj~a8D-ZmOSCNy-stlCvx6QHPSWoQngD7vVr824~wF22cIThFnW-lMvtxwwMUGJ37o5-JkOUp~y8ep-ZAgHceFLUomVfirAc14a4J3G78Z~XPWN7Vd5Nl2bHSnRjdMrZSHH-1av0CWNG0eMqXHD6lERHJ-BUGXwIQXWc8bA1pTnmoeNAmyxaiVEcUFbGNWkBmaeAhiYColQUSu3RC2wWjsub5xQLP-D8cQcRaZ3dG~scbBqOUK9NehCkorp5a9CgtQqn37ISP-lxF6amfuWbwHVKGLd7cC0I-gvddB6mR41JLKhCwOfwpREWbd9fzIBlF8XphHhDpbP98Ir2K4VnOw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 142
+    },
+    {
+        "title": "Permissions",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_19-08-52-36613052fa58b52244a54a1ae0c8c083/1/WebHD_720p.mp4?Expires=1665745917&Signature=TtUxrKjKIioJvb2zmbV3eEJEui-Gvy8r4bZcVcwfRoWArG03Ng-APL04v1HzFndESsWnBWq0z7VG2Gj1bCHMlyJlU1T~N3Zyf1u96jAOvdn9t6XXnpw-aP7vljcXAcWP3LamZx2DbtucO8fBHdoWiAs50TY6JfL7Pn8FBNGxynbyyvhCuYiWmIyn5nBMob8-bRquWtAPMYph-hz9EdQxraY23uAc6LdIRRu-tIHJiAiM6Z8Hut45OCr1cdxfqT50HdL8rHWHKsXF~hKlIi02WGya-f0u2qRmatyV4WPmWGiLSeRpByrGhWfipvw62h~qmYfLvgSS7vqsUp183UhQIQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 141
+    },
+    {
+        "title": "Creating Permissions",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_19-08-56-9e2eb194927761c177e77ad1d06fc9d4/1/WebHD_720p.mp4?Expires=1665745916&Signature=XMeAN5Qtzx7Goo-Sq0YGK34MbTKM2xpzF7APyYTd5p~KjHR80V7J7WkrVcLNCZL9F0VF8tXUFmLl85P1k0xA32qGNLTCgn4mzcq6EjwtdmYWtzh-Rgls~bBD56ocrVsnmJidUgCzjHBaIz15PLtN1rbHmd9KXDlMjfGXvEEB4xedTsRRIGWswTFIEINQBQ~LtKcp06WhxoKsW96~Tww5zI2lWpXyTMMY6KsA-Sudg5fLn1hIXzKGMO87WkKfY-KFytv103nvtlGa6MFxoICO2IcrK-bZxxkB~ES~rhhFPhsJ2rqARRUm4E95PZoXQ-z67guZOv-AuJfM-8yHxCZx2w__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 140
+    },
+    {
+        "title": "User Permissions",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_19-08-56-b2c8b1848a9814a21f49d9ddb20b2279/1/WebHD_720p.mp4?Expires=1665745916&Signature=SgjGjRcTJuVUXon7UgAgRaKDPxb7b6YlHrSwiDwRZ0~g1y6DOIezT4dHGyB9SGsIDvYnIkeF6wYQYdgL4Ju5tUnbVGNFM8AFFugmxEUgnFMDBPO~bJZaudFQB194CGnAOPh4AJQndV7qJjzBhhWarMdVGMHjvbVaEyfkZdh5rSE9bAetAxdAwsKiGnY9Pl7Er5yuTc3aq5UP9UkrSIDE-FDrXMQ~hiS0kBHYTjOuG9Hh3~Jz8wiuUNiIXCyI3AgF6R487qeY~ADgRmtFhOefTR5c9UcIdF9gabnpEAlJQwRKyt5iWfbCX0eO-ISKUSZ9OW4RubeL3asz4bRa3l00tQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 139
+    },
+    {
+        "title": "Permission Controller",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_19-08-52-b86cd245f6a744affb6dbc804972a8f4/1/WebHD_720p.mp4?Expires=1665745916&Signature=LglPEhPHnXT4PwTjaqXNtQod5923iQfBAAqo-~V7LHU7cCgqA2QxvF89w22RLAVDoAyJFyrkILuAIRqkhUzLzqyV7Dg9B5X7UdpZpeobEXwvdmKw01mv9A0Yqta8u9NULl8Fj3DRsnb90ExJ0lTdierbB1jnvyipV3HOPRWjF3DDib90eGQbGnKs06skOOC31x90BPB2N6ulQTgniAc1jUzKYbK6g2YZrH9vU7csJQVw8A8euRHEOdptu~ioq1NjdpYldKnuT97N3IW1mZbJ~aplYrhr4ktBE87xiO5315MTJOC1kZ~k-OITb0T4GXnkOOPfp9PyiC2TZ-mi1aqVLQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 138
+    },
+    {
+        "title": "Gates",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_19-08-54-5b857f8679ee3581e9871b187fa1801c/1/WebHD_720p.mp4?Expires=1665745916&Signature=FmDk5fNQaE6o0F777hTZJ0SO3L25RpIFEZsU55HTGa2ySEaBtd-yi2cep4lYynnUSL1UzVrXKNMsPOwcMyoFq3AvSQ17EI-7f5xS5~uASZT4CAPBqd3E3seiQJann8fnY5FHEZdQFSqqKHBRzob0aAqneHyGtt-yUfK1WuhtN1CJIXyr5di1lNZgn-Do55zoj4R-bHw-DzvJhnn1xvev0sH7WnWKwpZuXkrduMCxGS4CehKW42I7L5Jmmmeq8QPICKk1Z-1nfzXNWplTye0Y~ZwdIt1HgeqiRZSG7GNSXWq4m9v8R-xh9pNmk7~x8~79egGeqoIwijKVKXatssOA0Q__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 137
+    },
+    {
+        "title": "Request Gates",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_19-08-52-48346e48abe216b4a4b429d8a249e4e1/1/WebHD_720p.mp4?Expires=1665745916&Signature=gk5lbFVcPGN9t7YEJOLiHl2jDLuV9p9MivM3UQ-KLOnzkjCNO~3AwdCMQcbMaTcCmsmaRbePXIexPPlOXQkGSaI65vhTjXPJ2KbJY0YYloc4pe9KFPJvjPzDgBFI2C~rtMAhuqeebYi-DqZovO6F4aKz9tt4Gfu7sm-KrytlvxUrtGA74ugWeUsRrsdoQKn6H9NVivqZUB4vis1JWa9WurE2GuFr9IuRaQvr5OMn62FZFUAWmvNdBMwvaqoJSzz3a6WG4Rk3qsVI1wSq~2LtLms2mURmTjFNgWYNRWCyRgF6tsllpEsg3DlX~pvtRSLzZ11-ozokZ4VDovwhcx0RfQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 136
+    },
+    {
+        "title": "Chart",
+        "url": "https://mp4-c.udemycdn.com/2020-11-01_19-08-52-7c7809911f16210b782a5756228eb8a4/1/WebHD_720p.mp4?Expires=1665745916&Signature=OzGFCNRGh~c8Yn8mO-jG7VMw7gF9tON1Y52oxGfAcvHclhgxscUepcNhBVEt9FGIAl3xIW1YRLzqhf-RlC5R-zfjoq7D2k5XTIcHcqSEZ9ZgS5xHKQN~lNTKSqFDuh4jwHrKDvtIofPN4LyyvrihJiOaOmAKazDiL9pnHLANr20TcuwIwknI2L8IyZAyZBzDABzLP8LPobyIf4m8imijI0JfHZF7LH~XyKkItsK2Q3nWRtCnMGO9iUVmzYfaHmcRAqSQe9-1g676KMEIiD8lcLQZYaTBTK5Pmkg1SufSioU3W8rh83uyL1LSauZMZHlJJJKkKJ2BHdgEuBuMaC-Jog__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 135
+    },
+    {
+        "title": "Login with Cookies",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_18-05-36-f3bc2ac40061991eeeade6ef83720574/1/WebHD_720p.mp4?Expires=1665745916&Signature=a9FjLFO~pvvEdK1BBwL1~Y3oVBk1Inh3QHl1YRGbHIDe3ZaumOaRtXRkXr8zlSS2z3UtJK8~c1M7~qH7SbB8TDbzD6vN4J5fEEgP~rkQKo7lOPxBU8SUDhrm0vwwcAzJXGt68k46ZVlsrRSadUQJKeen0CwkzQJnodQtu03Ad9BK~2QhyuolZr70uKT0JTNa~nO7DIB9wuMCcKOPuuRD3ajOSw3t3DBljcYtNX7eIaVg~p6OaqSQQ-pRKK5jwRkgKWlxkuYYj3bYIjOceeGi5OyMgzCc39oFX~4c3HWWFKA2Z9MUncPvrwScc1R3EkY8t7pYAG70LUa3LeftXThmjQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 134
+    },
+    {
+        "id": 5521224,
+        "title": "Vue Admin",
+        "type": "chapter",
+        "order": 133
+    },
+    {
+        "title": "Installation",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_11-41-11-0414f6fad37cd060f9c0e394fab4da59/1/WebHD_720p.mp4?Expires=1665745916&Signature=Qg785mfvuIXO16RnQgMirQa6teH7OcK1ek03X1fmTBDFQ-VdqavRPztNmQjsS~U2JJhPN77JL3cx16Q6oI1QXWe2~sl3Mj-ZyxGpZzwqeHOBN-yuoPWap32gt2Ba07uTAeKNhY2yI5lhQxoLNkncvezScRxG9AqO665aDjV0f8EFASgO4z4kGw9on1yTD-r85IUYUVxtTedXN5DZHOsHq8GaKA3kR5zBTNHObL0T~x3PgWdGDzuMwcxwkLeE-L9SuALFrEPcIFFAX4GcaEG1WXDdn3mRH36pUdkEIEmVbEOP0VkRyqhAiE23lTwlS12WD6o9dEjJSqeFqZqmQ2F-Uw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 132
+    },
+    {
+        "title": "Template",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_11-41-10-67d2c3432a26ca55fb520fcbd3590078/1/WebHD_720p.mp4?Expires=1665745916&Signature=Z8ws6USU8H12Lfyi~R7CpZza2r1O8jlvev6x~euikjG2B8gD6UOCWBkLEHdbZecUDU98L79p-FVmQ5NubCGXz6V20K1zpvJys8GANlU-jF0F7gV7lGw9F-2ebcUe8TsAHKprepgKXmscOEUOpnrdbGsJTckfypKp~nvDYmpP3Fp1eJzV6RbbruKGl5Gd0rhh4Dkhgxu~2RfjwzjXRN8EveD8khHU-5ctW3kSFWc~91n-6D5OeWTq6CuMWEyESAcVoOm7Uo5~YESY7kFnPcRdWXW~QjARJz0B7c6vbn1O3ZBiI3WuSddcTs7ZA5iVxrUgcoYLKut1p3IqUZPtN4BqTg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 131
+    },
+    {
+        "title": "Router",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_11-41-11-d7e3b00813431fca34b3028407b87bca/1/WebHD_720p.mp4?Expires=1665745916&Signature=hiX5vAkWWJZLClE~4ect0eD8uNxj2oi7xx75NpLOHC7wLgORauTzjhNV8j5Swl5Q-s8OqTMbx62Gi-CgBtypwOAiccG0d5gHhVKqPkLbfubvTsQMA15LOwzXbVEhChBdODm~UkG~fg2Y8VtO4nPABaLwTsQ8TIteVtE7Ubp8iRFfcNDlkFghXWf1p11soAhAAPDooBwHtMcv0ORadsfscWpbvf6UO49R1RHRI3HezkrsHdUVBcwZGsh3P3aXISbfZphczWMeY5IChT-kYdb7LJS5xlenbf5wBRQfuCb81gZ03yEUCRe-9C8XAPK7crFJ8z7fJGc7VijjL0VE8qmUZw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 130
+    },
+    {
+        "title": "Form Submit",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_11-41-12-24e1703af6e166ea337cdf2fde3a4a7b/1/WebHD_720p.mp4?Expires=1665745916&Signature=KC43vI8ayKF00BxlvYPKTlsh8fD5VE-~V6WrgTtpw1pi2hMBOyraPJpX5jmUlMUbEJ~tcDj2KKGCUbLklD-kM2no2~23Fq3ZnOci~rmTiCpovy3GBs9Rweg0zsSk~fFMk1Z7hraGCJUSN5RaeDVvaGLuYEKx3lSoc9cYHfvd9jK1opHV6iMxgnorj8wB5SxtuhMqq~4MyOcEmVY7HmRRq-H4WMCoJKbnWIymQ88IRu~Bz7kIP1uDCtzjZLNYk9qmV8fLoPvojAqKcgIJ2svVMrqTYUPgZLQTqCz97F2l1jjg4YZjrdoFME6cTPycWuwnDE6yQ3Ht1aPWu1HPrSAD9w__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 129
+    },
+    {
+        "title": "Register",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_11-41-10-5698a0f73cb2318d01451d40477ee8ab/1/WebHD_720p.mp4?Expires=1665745916&Signature=SKlcMRpAPrn6ZTLky3x3-TrAuVXEc~BbEpcu05AEOpcwtUvzcmg-zJwlU8~2uF1b-o2wtqcu86wSUySL3ePnpvhwEX~4itGZPK7qvorbLKNCcnmy8LRUtztsZz-GBnSqT180y~hHI9XhQ7-HOrYzIZjDbvVHDqKDVr9IATJkLGb0frmRgT-mtDF3Zuml~LY7khFLoXqgW4UlVhQaaceHs4yONq~BV857vs6NYGzpSyTSBzqB0B0zKaGsCmSerluQNsKdCB-GXVC~MaG4yhM03MmBZjXrC6kad~oDeXFM9dH9LS-pPsX8moiCieQErsYA7g9yOlXjg1G5vtAOHD~BtQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 128
+    },
+    {
+        "title": "Login",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_11-41-10-35261e726c7c882e21c20ac9196a8406/1/WebHD_720p.mp4?Expires=1665745916&Signature=BvxVrcz8ilY-xTmIISSlRtI2a~plAM1eMk1vhh1kde07mBgyDD~asDdm7hE6Qdcux-NRBw026Lb~shjIC-5WoEl6n7Jk-bXojnB7yx6D~NJwwC8lgluFOLpHy3HyyBzNM2ViY99tGqEaPtBj6y24aw6m~mESigfLvm97Nha1cWRVEfAIFygVEzyQe6LyaMYsx4qVXb5KmrM50TB~n~~ndxZiXXWsAfvImw0nFTvqW7BAsI2dSV6GmBf2FGWXBAomEbxvISayRyX4HUS8Ob84D8j10zpYH0kzE3caXmS8rsgWQMIX~D99A0Hb6U2NdWbxQfXZSwLapxKtXnBMK2GHgw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 127
+    },
+    {
+        "title": "Child Routes",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_11-41-10-4421ad0f96e52cd81773727da1631f47/1/WebHD_720p.mp4?Expires=1665745916&Signature=GHHTpYxRO-eFwuLuOxfCdVO9lVl8pMoUb4BhfEjE~5Ge6yuiwMHQ6bOykLb3uh6B56htIcnFmskxUUOvQA4diRgpObk4uvSVF-nH5MryRM-UItfUDaVWxsIGTyE-lSnX8qzOz4z3unUgt~xc5UHjcYgnwTmVkoGhYU4txYUpRXVSOGOswL9lviM1noElC~lGCjuAp5DBaj3idJ6p9WeI6kzaHNl1e25XG~11wRn8Xkx0mw3VzmSTeT5dnywYyO1k5zKmQNQSYSyqPD2mRq4QYFiInMQLSDgDHmEO01NG~xMB~1fwdnGgo-7IXJvYMuNJKssBsD0Jxleh7qJ2-0dchw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 126
+    },
+    {
+        "title": "Logout",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_11-41-10-172b52821a08561f41e5981497f7ac2b/1/WebHD_720p.mp4?Expires=1665745916&Signature=YFQGPWi~WuhLkhpSKy7KSrxked7omEvfVGlj6bFYMy-GgkiLhR3LqubZAomYuy7D8OsnoEw1874VO9CX~8afGGywVMO2Ug1x3s8hrKDKwvFs4RRg6tU7jWPJmipY0WC9Gwdfo-tQRXTVcYQEC2XNb5GXayT8wU-NZAvLJtn88kh5VkekN2fu57cKz~8ztxOVeKm6lSYd7YZMVhjXjLrYaKjTT~GUg13qmbT3B9g9dxUas2TRbfgKswqohkOzWKI6fU5CPer0hRizua5n0jK-9psu12LaeGBdyN0ZFbxe15~U3drGR4cF5Q86Pc2X1rG7h4MsBrNhckqaFMW~~vsOEA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 125
+    },
+    {
+        "title": "Component Props",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_11-41-11-d1645d0087b2f2e70fdcb917575f72c4/1/WebHD_720p.mp4?Expires=1665745916&Signature=TwD~TJBKbvZ~4R7gzrDdbF97IbY-LC1GsCNTAj0f~G9QD5yabGezjPakdjy4zcTafESO9YRRI3cGIFTQ4m~mUiWAQqxw4~6HvaWPNprwsTP9uA39pKEMsfSZ1~uehT716~bmv2iwwE~W7QjVzGBJJk0AcImJ~j6yvndQwv-9y2debw8oeImsIPnR~sXu1SrXjOTxG2Hdyz~nOdF-6Zn4vIAxvY~UTU2Kq94psj2gO~FXfh-Fb2onJcdtGsYuQCklP~4BtA9uZJgNJp8XfkTOKeg97Yedc~1PiVW~9dNtmHTy5qZbRiLgq0u~mpmM3FuDcDXBwWGrQ9BRXsCxLhJo2A__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 124
+    },
+    {
+        "title": "Users",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_11-41-12-8bcbc461724de26eb2986d45e9deccca/1/WebHD_720p.mp4?Expires=1665745916&Signature=h4oQjizzXwRJDAeVCJRhjixT1myPqgfqzzkRNRhVgskAnuJ~l~S72umQyCkjPfJ~ZLFu4WfmVfqSBx6Qa~Ks4g4n9potOSRB-SqcBlsmKjnVkC1rE~mw9mso1GFCAMIcgqOxQ2FCbkvyHrUqKqpCApNzuOsXbXkLptKO30agLYZ0fpEetvpVg~DhJ2VYiskU0VC-tOJcIvPf8Te0MwRlfY0LLNFfz2SGFRIlKMbppE7XIwcr0aNL1E~IYlzkAZe4BtWbTey3lLAw-ZMIb39zndqlFsC7-kDATjCuYAg~wE3nKt9tMzPiyMqP6whisdD6KFwljdmucnJ3kMf18Ctzjg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 123
+    },
+    {
+        "title": "Router Link Active",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_11-41-12-b232ffe3594c264827f1fd73deb6dc47/1/WebHD_720p.mp4?Expires=1665745916&Signature=GU6b1fPFPGgEx78LIY8X-Ei3DoMh4TyVY6LfdhH0KS-CSlJ8iPWDSDjzmNIvXwD1RrcK7572-UCiRtSK9CEJWRGNqgK9N49vqTacBV7nm329bD3tX~5exatDGkX5VMc9DmAmO1Y5MGf-fPSTTPhHCVXV80zu-BrDhsTWAFX-l71G4ahGOiLYUUpANA7cDXt7jBwK-2lNHXKlk-rThidzMUYqZd-6LfaQhwgP2A8Dm-bIlvn1dOVhdEn8MQ7eSqE36yh772YrEthiU3HaWdjdfjjKfhwwHnW~~c32ozus0oD~EJlWwc7o4I7cysswBpYhcOk34IoV6AlPFxmD7HVU2A__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 122
+    },
+    {
+        "title": "Pagination",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_11-41-11-1ad20453ca55a86acf02f33ee70ea711/1/WebHD_720p.mp4?Expires=1665745916&Signature=a2QjmNq-Twv1IsHFEiyTNhO2TYb4dDxmuVc-UL31KzyQ-duwuoSLmN-kLFCfR7fErH9cZmdjZiOkOCIG2OJgU36~k-KypaWX7hIJx6jk26M4SmxLKro50coXfyFYd8s4-2eAdq9zPhSHboA3aGK5dk~yFIrLIETIgpMKggNgGSijpM9sB1cK1QariVsg7OcD89caY8hb2UKxsk7bBQkoqDivdjn-q~XjLe45wvFJkBQeeptARj9Wq1~Mpg0vtYZP6YLG9AMJTgJhX8KYb3kFCK0L9osHlTa-roMP6XzYOwDSQ30NH41i5KpuLLkNKOFZlHVR4c5OlkgeoOz4MHFrjg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 121
+    },
+    {
+        "title": "Deleting Users",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_11-41-10-cdb1ccfe6c07f6fc09381240331044c8/1/WebHD_720p.mp4?Expires=1665745916&Signature=EnpEAhqccUCfXze6cYDWgdKVSaVTPt6Qz0NdjEuTVCAQ28kjv57YwIhd0fz2M2yDBYmt9MscJCTtW8mPFcEoUDSiQrgRmhnp~WTaQqeZ3~o2y7yFY9T~B11BMyxUckRSQXJljfdroiOapOmr-uZB9h7kzfwMRmvoxftNnzvXCfMlOoHd8D7X0e-ma0IuJLSgGWWT~yr5ri7j0Gfc2oKqRGOI4eC-laCOaQM7m2COtG6N1DSCBrNVIeFS-Csmw6vEMnc1VLd2XIvHOcc5ccT8TFPUt7DPFXfezQE~xbhjYq0vd7B142AUJZ2bjWAQHOUkCTBwTnYKw4gnWrCvFsiGeA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 120
+    },
+    {
+        "title": "Classes and Interfaces",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_11-41-10-8875fc91035f94a5276d324eb41d411e/1/WebHD_720p.mp4?Expires=1665745916&Signature=TyZc7qkmB-hSPW48vA8~DxbwW3nw5RUBJXwDS0hdjoEeLL02PJQ9rA4VgtTACcx1UhKC2VCoA7zbA7cIn3uLO2IaD1r1ppXyxX8awErEE5MwNMjDl35DxNCDbZmDL7W1OBNat3H1K4bubHUwkzcSLoXIMbE3nGVfrGx0quOxSJRT7JRyC7ziT-thPfYWghzQOb8Qsv1S9GSHqMRb3LUuPwyM8bjFV96-7E1GWwNSGumZb76Erg6cLl~oocNE1ZVG0upr5rCm164BCSemSJKd7JoNbK0yLTI4vY2ULdmJHcm9zb3chijfgbMVGDEVO~Gku3YocOODxui-z13mPALRDg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 119
+    },
+    {
+        "title": "Creating Users",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_11-41-10-615aa7339580097913746a91c292ecbf/1/WebHD_720p.mp4?Expires=1665745916&Signature=ldJ7~4wEklsL~rHxl-1qbb1UWOrKRpnSEgFnmkkaSutqxL8JPprMoYrwj-i6vsk-FlSRf6qOrdeesHVSYISMbYT1-RZWWhhja3ivsLaHtMzoMO6lgIDk7dpRG7FPd8e9Nt~Vv1nHkffI2nBRgM4zYhpRu2XjQPPZ-GnNn-2UH9c9Ruz52bE6GfDUzexE6Atjol~J8cIJy1kCVgt1GasocfWcCw85QTHxR6LGy0nL~UF-5bIWphO57p6PMvCAyM--iHtiIFyX5w1fXH9Nu4uLJptXrZHo-na55uNrnh82ibgLQFYGpJ1lTrJTNymHC~xlHrPHHzz1-hkPL~h6usfiXQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 118
+    },
+    {
+        "title": "Updating Users",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-17-59-bb670305dd62e0e88311bf4e3713990a/1/WebHD_720p.mp4?Expires=1665745916&Signature=LdhlvLQGhK-Og14SnnEnE3Wk20ka0AtD0RZwFfyttASD5s48aa~tv9TDnHeQoFa~UgLHoWBi5YiUM1l2cPjKF6QJePCy4k0E4oPiyGDd4iTlV9cKPkddYdlzfGNz4Ui7ssApDzj6apSXQE2Lac422yjoVQ3UL-pi5R09uJXd4V3NXzk7NJRw40sS9b8qz~5RC2Nk69N5X6ucSmhJC11TJYwqFX~M~2Up0xKT5eGTZl9HzORFjcUc~ej8la8aDjZZ5F3P2YM~oTDaOIe5jv2vL6Q0-vQHHbpUE0P2ZrqynL7osSBwmjzpbeS80c07MGekfZZq8GIAOJ2JqL2QeLj3Uw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 117
+    },
+    {
+        "title": "Roles",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-17-59-f75491b76b3effbb12102c47b8349d7c/1/WebHD_720p.mp4?Expires=1665745916&Signature=eCVMrXU9~8K68Mq4z8ZntEPWSBytyMlv~GDWV25VHALViYQ~kbfxEyz24Psi4sSR4LJaGWVVn9DKU5-xUSnv2r5eT2VcAIJrCoHSHKKsTbzYllKpPAFBS9afnqAPZeRW7FuKha4YwlFp~xojnieKPEESlYknfXm~PsYiUIgjjvIEX-sOYi48tRVmd3-AkB~36MvAZVh1DtieHN41edygcvIZgUSrhhPh-DtEf5-6L6siMMOSmEhGPKWTQ8654IRiS3mvyqNqPRlLdLAKFJ5GlqXDdE6MQFapwVfpmOu8oLHpIYQKmBJm-0yrlvd2HyGCSdfZ52WQg6XLBFT9TcfxDQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 116
+    },
+    {
+        "title": "Creating Roles",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-18-01-4986e79f2b5db5fe2415dd2278ac0a17/1/WebHD_720p.mp4?Expires=1665745916&Signature=F17fY1g5HoRquTkFdo~mWeoXwHVv04jlKTT9ay0o~z7-xLE58ZozkJqk4~o6e-OUVMwc236CmNYbMEDbyTr2jypltH0cbbKoX2CGt8NRzl~oEOW5zvlTm2OcGppeTuIoDIzB-JxE4Sch3775nIpWubMCLKRXyg2dRnD-A0dcgjUXEINPipxxQRp1p7EhoINQ2EdvhCJoISCwO4voZIwOq3vaMwVHaY6g4cS8P7KrZBsyUMg95V3AWjI4wlpPlYKZLn53Da1hojUfF4mKA1JZ7iFHWRjdN4W3YKOgg-6xC2LOqyw0WmBRWLBegnerMJb7PbZXMzPgtP08Q7fRpwUeLQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 115
+    },
+    {
+        "title": "Updating Roles",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-17-59-0fd4ae912f3a13a77d351f8bd591526a/1/WebHD_720p.mp4?Expires=1665745916&Signature=cOg-~MfE20wAhfyCEk0ZXNhy80yIpro7KEAH5fIPAUYOYOyivZ0tBpj~gb~ARr3gXby18Lu0bn9iudBbwp~6lzKE8-sTPtHQoy688EFC1SsJp3ChzMOD0uVKQAfdL-seQkxddyMDcqNWSZ3wZswsyv6X-iID-1iMayR2vhqI2l4z7p-J2n0hAujAKFDkRhNsoRAGcQKcCBswf0w0UmmZRCCezu5~WGcS6F3lSNrcCuNNUgbOBprqTHZTGdn95ovkXmldSWQYjwPjZXhWWvuXWm1eiR902CP5erS-lsOVMN7yHF-IUtQqmPIovu9QE5dAo1MYnzCrNrjiG9Zwrkrs4A__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 114
+    },
+    {
+        "title": "Products",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-17-59-4ac43bff89bac776375e91dbc2add83a/1/WebHD_720p.mp4?Expires=1665745916&Signature=JzQdZtLfUXMTmT~1ERTp6svzcKWcoSX5D1JclRreZ4CXB5rV2KWnEfij7prEvu-a89yLh4rRhVC9~qZxk-1Tc7aicyWeIE7KbKeN2o~9Oa4xq3sO2MvC~nwxKjWVIUIzRgAs~mqPsGapPyfbxD~idtRpiveUoj~~vOMC7yxrWEHc7iZfofxobTmzzDs0rp9KVq19vL0qlXAP38FJ9OemtpJCUKmJc87Y7GwJ12vshzk4Wn5siRTQZO2EMHvfs5aA43-FOgsjVN0gl7lqYiBnnc7zIu23cQS0iExZuDfHn-x7~UFHTLdp74QWVAi0lYyLdlFckHZFvbEOIVx1hFgpOw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 113
+    },
+    {
+        "title": "Paginator Component",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-17-59-213d44dcaec40b5e1a7af0756dc59f40/1/WebHD_720p.mp4?Expires=1665745916&Signature=J1M2KO3rnPnPvGypjvtUSwvq4L5ehr1u2ws8oquimYXL30KqCcqmTrNsk9p0PGL11ZgKrPSe1tnSGAoQlAFv2MHi-XGMzGoAUhcBJGD6jnrdRX034AxD-HamnlPvhr8-0X5C19QXU6URVF0BfBvQVgk0wZ01LAiUn3Ds11D1yCWyDrxbLHfYEV8XMzA8Zup7dbF3roH5K6RAw6Evkyxl7jeCu3rCRnYVEOtDC-mw5JlloOFrIt9MMv~z38C6SW8L4iWUEU9Zrv4id7yef0lhKt2KHWRpipnqLI~XPWP9oU0lxooDk6ck~cbVPCMvWnKmQgxRnKE5Q3UdjQyMDv6Vew__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 112
+    },
+    {
+        "title": "Creating Products",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-17-59-81ccf8e8ca990b3903c0ffda31016671/1/WebHD_720p.mp4?Expires=1665745916&Signature=mUCK-KtL7O0wCekcuC579OkRknVeo0tE37qSK-tzfaSnsAl8BW5BmpxDqO24QjTBDmKEg6K32XURHLdGFi79HNjxVGZttfQVgE-Y2wllzcuQETEYFABhhQt3zm905XfnMmgDi05UGvarRw5X8dtBHkCRPniYa7PriB03WOG05evCJzrPKLYJpjBcgTIFfx9mhwBxBBwryK~2CtDFHW4W4YQG3B28VSqUsm7BaORUCm7e9i9RTudpssHVi7QBG~IvonX8cRePEsKWX9ZR6rzDmPQEe2XidGT1Jhb8LGvV9jK92kB7qfN4sNp8awPKb3wEEBxr0U76~7aVu2ayDgcUuw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 111
+    },
+    {
+        "title": "Uploading images",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-17-59-de3d81cc85aea8fcc3c8d37b7c05f05d/1/WebHD_720p.mp4?Expires=1665745916&Signature=UyvAFb92CTe0KwiF6LMC-t0H3M00GpJc1iaCrfW5FnI99Nra4EcrbPcKvtGgtbu8OgsJ4MPEqPdBa81UKJBM-meHdFZHC-92hBf6u5lwDa2~FpO-lUrCJqYdQCxis6XNPgLdIS4c00brWCwz~CXWQ0jx3crriuxNSwXoyLC7AqR-SdJI6Ams9TkIrEGeuyPLZj44mycK1kPMSjatqKl-uiiwldDSb-ER0oVR-Cq2Zajxxyshn91-rxDc0eHSWBheypuqJod0oOvwS9dsTK6SfanmVJGfV0yunj4EreCAa4Nembu84SYfuSSPk7sJ9PufgdA~ZBOEUSKZqlcwaF0Dzg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 110
+    },
+    {
+        "title": "Image Component",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-18-00-26496eb2e68ebd357d2fb0820c88d115/1/WebHD_720p.mp4?Expires=1665745916&Signature=LDRrTOs4mljiRti4rWLS6ECw9hnd~-qkLJMR2XL~YtpF2N48naDbmWTHRjACoUaj0JvMQjrvksOUjx51CV4~6BzaOWGg24bguthpIR6EjVqImpBf1WHXOkp30b8CskALj4jwZDAHsl-Gs2AN0kaMparuIvsfSL~nlM8LXMr1Ti5aoWejFpoVr128FPDF8UWKcKXVf5FcJeWN5iJCBurC08z6ihq0Mif7g-ExTfCewpVJ1AsjJoi4sjA6IpnfgsHj9y9kwZWCaUVZaCxAD~5mHoe07lbUFAiCrhSg5FIzo~cxkqYVV4WjyUTEaBv0F7VIlHO9bOc7NwRsqx-zdhbeag__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 109
+    },
+    {
+        "title": "Updating Products",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-17-59-d331f559fbb9568246817bbac442f567/1/WebHD_720p.mp4?Expires=1665745916&Signature=DcgPLSABibOEvC-fjSUVYp0VOLXbccACAOFRBpN61CHDCAy8H5BDkccESePWnYZywMBNCJ2zaoX5914WZ~IA6BmHiF-jF0s9fkgJNjk1LO8qliK3hJ0OYmyE1ZV2ou8U3~S1OllMun5mvy0JBjIzCQvHJ1SPMJTx75VTXan66nhoWnSJ1PmkksY4ELQJdnRmkyIhLVD3n5sCCG3Y64~~R4u-ouEs4IKdxs5kQ0~N8wTvwjr5Bd8gyiHz5V6ym2TT827NBKGmQ0oHTIown32gN-pzi~rm6NmEUR6VIbXs9TlTPGItSBAPJr~R1wG8ms5Ykn1Emy2qJ2oPb40glMlqNg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 108
+    },
+    {
+        "title": "Orders",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-17-59-6c16a440bbdcfa69d7fccb45625764e8/1/WebHD_720p.mp4?Expires=1665745916&Signature=McV8ncheeufcSKSeVPWNZOtOhXuoJwpO720RgKnI8XI4VmqMclSI9oybJtrmhv6PYj3fj7BS7jZd0VPZAPP692dzHqxM7K381CK1SnSXB~nnkCubwCFtbI4bt07Z1z7YKT630m0wfEOkWXjTzRxUqDWUQeCLi~NOcbs2My6Vn56RSQ-WuEFA6LUeEBYcQoNWUYx2AqOxCl4L6G5lyvr92xksR6BAeJUAbbDNrWO~LjSCNxiRxn4uGTkc7H0w07uFPJ044LuLgjPQBe3l2RgZk~Iwm7dFhqYIbV7OfGpcXNQw61rvcjLu0en-pYMzBsKWkNE3VQd3UuXBf8M1NJtA2w__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 107
+    },
+    {
+        "title": "Order Items",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-17-59-dd7a0f32f8db1673c035fb800bd7bbb6/1/WebHD_720p.mp4?Expires=1665745916&Signature=BSTaqBnp-5Xzq8X8vekfgdJ8V-WEr89tyeVqIlm-gtO5aHUx8w71t0ilf6AGAzX12Nmicm3NUnWsX3YpRvaSMyhUwD~YOWLccYYTfJcoocHFrmur~Xv1OjsuQlLjayLIGoQcjgZZMxraHDnCPX29m4oJxRUAVou5wu9k-EZzUtx84bQTJgvlGlr0UpI2C19UUBlSzOJCeNLEJannbxXiomg2teGt1G2jAg4vEZabXmUJIqWzzRxz~IjuG83h-Pl0vMJL3yI0v6msyu1ZPVM8R5T-mBM3XWA-CeazSaYG8FssbtQQSjKUWmQj0zdIRX5l1t2CYm3W3DBdtZrTMYkqMw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 106
+    },
+    {
+        "title": "Export CSV files",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-18-01-0531f8f1660d6c08d3735c17ae209b08/1/WebHD_720p.mp4?Expires=1665745916&Signature=eu85ySMSQi20-CHmu0c49qRb2uKUu07Vg2HcZXlMvqeSf6hLJDdYrggN4nvUN0uVXx3vyByegdjfR0EflKloo8gvGd5p3z9WRmJl2ZK3kHaQCryck~k~hE2t2NEKHkH0dw9SBb828jFvw0cGps~bgJM~N-~ldGmOOw5hEH0e-TPe4zht4SHwDOCeQ5IOImMCCLYWgM~~FYpCdY-HDtq208GbMP4QDQRi23-qbo7Ye3kdt~rVCwUzPGQoe~31twVgasQ3j7ZHH7I1zZgGjEmtaxcGOChIJcVx71I8g4CDqoSlWylokV6jj0uHNmX9Nbjn56os1ZCvj~4K~pYwO~oC3g__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 105
+    },
+    {
+        "title": "Chart",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-18-01-d824cbe22c3f6bd5e1c8d548980f2f56/1/WebHD_720p.mp4?Expires=1665745916&Signature=N8-ID~UZ-lQtpNj33ViSJeaX3RVeVlkpHBTpCNdCOGUw12zuky6qBLEDXaXQQeswgUky1wMVhu6i01VIoxf8QvGRWdYUNLij4m3f0kmACRku01f2F9AWycaHCVHkHsyVXFTnoFULEUxLTHjvF9XNTXqfrq~3JEACzqHandThKUPMYiLi6q-uuQwkGEgo1ObwqRq9TjJnD7VdSf18V9pqpA3NTdTOhH86E8dHP6NYmtreRES9uBsnHmgWzbvnj~AEWG-MytRUe5S6LMOgyhnJleGckP6irixIFqj0BOBfh-WbZc~hmiizhfl-VrkwLxhdFG-VIOwilQQ9Pt8BowF28g__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 104
+    },
+    {
+        "title": "Profile",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-17-59-79d3dde2fc79ba43a0c6f10a40a81c2d/1/WebHD_720p.mp4?Expires=1665745916&Signature=Z3Cg8~2B4si7jcdECBvxSVP8zt7spIzUPrjAi6VJ2He04ybOgdCTP~~Bq~GQAWgUoptrSJTEBwDvIzfsV18nkaX39NljBnI6cMzNrh2Bb8jbGqmLKA6Voxg4Tm3KhjXp5omfEQ5edR9BNaSTe6x~4J~pbzT4Vc1P3a-8PI3kJW6DL-wNK~VUe7w6lnh5XMZssUC5AwB~-nmBMlckWtHG5gLw-Hn4ATZbRqYE8aj24qumtq0ZrbSvQiMN29jKwr6w9Mh3XzM8AoRmgYfgogyEdJuD6k9QfulqRgZ0bMTgJywrc3UwkHLuj1wqmTyS4M-uvs1BNpTP9U4UtNjJHnRFww__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 103
+    },
+    {
+        "title": "Vuex",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-17-59-bf79f04613ba3b9d3d36d6cdb41fc2b7/1/WebHD_720p.mp4?Expires=1665745916&Signature=WT1OQwiWzHgONSydD1d0IhsOYeZL4CaqRVdN8-CYwG3GSHfsaGfZwoLsgS3LeQaaXEuPlSzc0A9VeoHsS5mQdxc~mueq3xIkZJqD5QeFNs5wdoqIT-54Ta0ovSbhBjytLvlOVvRzx2pwAmkg4AdlQ4m~0qg74RR7CQWrTmoCHDcRODZLjJ5RhT4eTHzvZLNHkH34Ul22yK8LUpSWg2IXokGFpjyprXXFE-23oeyFJFaYynG-H3u9t~kACSMrflP9l1S4VzrzR12nmSS7ExfoifeY-gssf3WAAfG3-saB9bo80S3WSVasY73Dz3RiFkKFezVy8mUWc0jvPimULmhHpA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 102
+    },
+    {
+        "title": "Dispatch Events with Vuex",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-17-59-4c5bf507cf5a20a7338658937128e858/1/WebHD_720p.mp4?Expires=1665745916&Signature=Jzac~orrjyUizLMqHsmOZSw2e8GPlHjT1GSG3xDNF2dlOj4yl423emRli4ydPc5PPjx5lhFE7ZprRm3nBOwGQ9HHVP0OT3W65w8ZFBrdJg2IycpINdjh6vVSDjMMCd0EZNqxeKTaBr2o9PBSvY0-c1gU~K5~bgfWKGy8YGTKNtS1uu9FipJH0k1dTzYfERjPxw7T~gDevXx1CAfLakmcV2kQOJtpNx29leG2qAM-WXBym-jl3EkIcvj2Jiy2n7nF6QSjeY5gp-hmAAB7-pgr9fk--JRh5ux8JXTXnRT0VCeBwUw9cXfwWuX7O2QvIZky2FjlloHYPOoEbU8L3Qo0Hw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 101
+    },
+    {
+        "title": "Vuex Modules",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-17-59-02a8eb5c678a7e32f17b1fc26b1db01e/1/WebHD_720p.mp4?Expires=1665745916&Signature=EOEUmybm-7nzGFGG243m1wr6CgU~AtbYqqL8pTUU26-bt50PapSMDA9aCrOSTMfI-4Sbr1V8IOb8v2aBk9LAD2Klm7RpXgtk46izDFeSnBMAt3sxp9KxZt6lPfKajzehZXAJ2gIyqgzcKrkIVxcup989cHwgof-DDgmFiIJdtCslAwFv~lBdDR95jzOdKuPjvbFeYBljNnErgci4KeonPMD~I~com-gzjpcfNRp~EljNCbCVmYzXifm4tE9yHS9o4yZxmCUZEiqgV1rMEB0DZU8NqL0d7Ans2NbRLC2q0gP9Y6leoGzS2KKL~LX69uSKPCj-G7xYDqfzAroT3CSACA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 100
+    },
+    {
+        "title": "Typescript Getters",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-18-01-7c103e478483ebba4aece404e6dde070/1/WebHD_720p.mp4?Expires=1665745916&Signature=lTZwgArsI5hPvEklnTarddRDi1Eyx8rHLGFTT3leyAvEcwwonZWWts2iKj6V87EkLC3YvhBhDVPziwt-h81cuJ6~R4jvWgD-~CVSQo2W2o0uruJT9kkVOfgV5pS6CfQjLAGE4XNDavjsPdDIX7eHOfnSUwpEoMliPlJoAkFrIZfKciXclEUf-3-Bt~JhuIXT9bJXRlpZPARDbJuxxBwhr6CoQ3K8~kd26UutjA3sMSkKSFaCgCDSY0xZF64nCmgevYuQc~gLz4R1ylch8EzQuOSdpvpphB3B75Kg-Hx~VIxSNETU~up3fCiiOSPIyk0FX5848D8rOj1xCQXmN-F48g__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 99
+    },
+    {
+        "title": "Permissions",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-17-59-4a276371811ff8c39275e561136c4a0f/1/WebHD_720p.mp4?Expires=1665745916&Signature=AfIRbH--Ez0ZEdJu55gWLfRqXWzri6XZbKIS7OzNmkZiRxvfgH0UP7T9q-nlD79NG3woqAm1W-5ojb-cPLGMFXoKDKQYjrrfPAu2H7fhx5iuCPOPqO-jLudyqpasW1E1SgOL8veFgncxoZVpP0SrifH9zdYkT6tdr7k7XlJBs4xbj7-AjDMb05M82wrfRJSRXySb-IGoVyzwqTxEUrk6smK2FBn7S-hTtuYoPeSoGG28POSvVrq27g2Kqsh7BOUbmeHOrmBoyNlq0~Mi2D2l7oGKWS6~oduv6JbRGrwph7jE2TiENilPNAR6IOV8oaq7-ase-UlanbMq2TcUXiI6PQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 98
+    },
+    {
+        "title": "Login with HttpOnly Cookies",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_18-16-56-f410f389bd8de58d42039ea59db6ac55/1/WebHD_720p.mp4?Expires=1665745916&Signature=NW2uPPH2OE4q60Wsa2EpZzfS4gMtAqySlNWOqbg7UVtNAlhlMEahn8GRALTX4n0k8K7XSUgn0OM2qQqM4DPw~TeVbwuZIeh4Wrc98o20rosSgrvYW-lAVENvdqvcr0GxDcmqWzkrS94lGFKdO-J6bOhgI4Hcmct4LPOFQ6CwzOCWFbh-m5mSdkg2m0qUXXgGoh6yJ~LZUoNHcM7IHKaHzDOEpN-SdexWh2LSp-2sDvzWuibEYsemumc1EP8Z5LMi0gSMJwJCRhVB31nraE1v-XwDVEhHFuAjVS1bxRY7fo6mBLCQdal3AVD60JAL-eQqTDHXQEGIMdJ1Uj~xCmK7CA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 97
+    },
+    {
+        "id": 5521338,
+        "title": "Laravel Influencer",
+        "type": "chapter",
+        "order": 96
+    },
+    {
+        "title": "Changing the database",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-41-57-f80bcca01ab4f062146b0e772dd70d42/1/WebHD_720p.mp4?Expires=1665745916&Signature=Cvb7AJItFDtimbHT5swRssunBuP3IHV3B9ngbFNsHTTFI-Nr0ZN5GF2L80CIEn3Gtvdi0uAYhi7dFg0iOfRnkYayy9NtmDajF3Jo7znsN1skUaiuj3uCIxt-6PUO2M2MbYKDvW~aNe5LMOwHwMSO468DLYkUTVJJhg~ekIDA8Jr6SDI-qFaNt7D3HMQc6i8jnHmJCehwDE0llsp2uVYgG8SwF1u~0wxNKTHmjU0ndT-gRn2QJV9Xyh-T5jj3x0xYg-zAmg39OGkad1S4BqbMSYoldJzg36slwAM-~4Kw2cfJ44fM51~OK1JBbUtSOVCVH1JO0uVND~Uuiqd4cZVMqA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 95
+    },
+    {
+        "title": "Route Prefixes",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-41-57-8e49587eb139897ec85726b98dbb7d9f/1/WebHD_720p.mp4?Expires=1665745916&Signature=VF3aHErNhQjbBPeyMiscG~BqrtlikR9o7mYaJIOaeQW0fO4Hkd87bESyl4pJEAXb9rBwuzPVKKPRIGz14rnqfyi1DtQDSspG9pyr0AnAglpa7fA2J1R67DnL7CtxR1w8s6qI5aKs1X2ZPdO7Bz606WMBuFB2pLrfoObKWtDKpTTixngB3HO~xa2JTvTXtl0sThu2jCttcPPdW8P49361XYTGwYPd60jWleSbodp6Gd0kEejt5lgNfn75E0VwtUOHeuONVNpH8ALfo8V9I0L2FdL9FpX7j7WGCGYFw38tUEnmphWFasX8TmeL5uU86cbx0~uZ3ygP5ocN3DccxuPfXg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 94
+    },
+    {
+        "title": "Route Namespaces",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-41-57-b1433d7f1bc0748600d44935d60951e2/1/WebHD_720p.mp4?Expires=1665745916&Signature=WXilX4uEgQSrk6Bv16mZuEiq0vOKw1gmmqZIKlmgxOsr5yjiMFHhCgLRd484ohcJ-3XxYdSmfFOrV0Anvf~4B8NZu6JERaKWQwuhMAm4xDVcY~gbCmfHx3Nolsw8icBrRTpN-e8gRWnHGXTNXQvaY7M1wDUibeQHvyRDR0CTDPLBqtWGJ4Ja8lqQ0c5f3yPQapWOczzxBlhwPpl1E5NsFDXqrSvSpYIQvNIiHo4O5t303zjnQCaCetfvoE4WBFxiaQ~TZ62WoXXv4B7XjHnQQl467rVomEhjCvlSL5bTvOdhqollxPY6-GZ-ZmIEW9H~i4cZOwXJbw8IA3cSlaXJow__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 93
+    },
+    {
+        "title": "Products",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-41-57-97f0dbeb9865775984799da25d98422d/1/WebHD_720p.mp4?Expires=1665745916&Signature=kjtZGOF2Gunt6cvYXbjWoK1jiTSWjxQuut4CEr7KFptVdGP-OmLoIVCXNBuP2X166bq93DnxAipn1UkzxMV6oGjMZSl-LDN~haA3y9Jx~9CTWk-iFV1Ev3L2jrb7GFvohcuVZPn~s97LCw4rzIQWLIjiu3fYpVx0Amd2fGPzuMC~oOim86EBVAdjpgUxSLB5Gg0kTLzGFhs4a2HZ95~1hlG08r09W-MJOeXYXaMVB-CN7PJQPHEhbk1Dt5AAs-Rej9BVZSohY-PDLto4mTJX4TEhSbkjEttI5Mnms3uozAPEhJiDtL1rBSMW~0XbUw8IdhEgUSdnWtNLIawc0d6a4A__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 92
+    },
+    {
+        "title": "Product Search",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-41-57-e80eb73e007bd3e2d3699a363c084dac/1/WebHD_720p.mp4?Expires=1665745916&Signature=ITRdZZvqs10MZL9D1vpkxyciDrkvwz0GnS9~F3kL-nKLZcpR2L~BW9U7QhPse2X9oPi6dZVYDxqspkyF2vvwc1zngoPJRsFfHEAFZ8LfO~oQZWZlysdHoDCHLBvAcbJbTCK1GH~L9P0nqWMxB--HDUOUY5H2ODhkZmEgEE2ufnl~YbtjlQBKvXUyYerLK8wj~z6MhWNYSl6mXjmp~i24AnsjpQxEEkboTyuaOZ-3H62LnvqtWwR1OVYF-Ig9FqbR4YxHQJUgfA5j423ntkJhpNkVKkJyvqgZwOl3FPg1mUxy40bw4UNqtDYRRAjMfbA0QH~Bc4E3bF4LArt93ytQjg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 91
+    },
+    {
+        "title": "Common Routes",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-41-57-448792d3f2a215bab7fd9732f7d46adb/1/WebHD_720p.mp4?Expires=1665745916&Signature=Ad6hKbUgZIantTeeaTRIbgddNiZ69T7MjaAQqwhQOvVjiWdFv6WJ2j2ia34Gf202hOBuN9TEJtvkPYUK0hAozi2uwQ1pCD8KUZ9~WwD132uCIoharZLsLtwM5TAj7ICJF5qbdudTeVGpMD5BR0OvT8HAU6O5M3WMfXnHCX9AwxHkCxhyCEyn94kMyQZlK3Ca0SbEPXRkeKS7Vun5RPXxF9qSqIkVazXs5GpQGoLsqiyznIXrxIlNTVUGZ8x47WsCgxHw-Y~14LOysfXcIOoeWJPwBG8nzM1~8JGyQkrpNfL1izgAWB8aE1mII2bG8cLtyLnceG1mFPuQV3XE~yQMxA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 90
+    },
+    {
+        "title": "User Type",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-41-57-fe4bf12dc3cc6ac619bc1d9472034892/1/WebHD_720p.mp4?Expires=1665745916&Signature=iQSabmuxADmBNeJ2lvdrqEcBZ2HVOUTdCGRksKNPH2BJI241q01LvE358XFIhfJqPTZ14eZbWO3mq0fXaED7MU9X-aVZ~8~vKZU6pakgi0SItG~5jrq2m5hP8cXWPBXwW-iWiJbj5kTDpJeKl~v7GSl4dZdZc2F3F9JwL26jngbhirp73j-6HCyFQ13bx4kylP7uAuHBy9hd~1QIwPpBEeA2lM0km-UXY1WqMieEKtMsDbVO6mhJCCy0V9Jo1t5-0BJRlGH-iPS3CCiVMp22AahLvtO9I~hCI~WViGi8TSH9LJ-~5S9tX7NvABFYjeKrlvi1vmgSy3~GFp20ME-3MA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 89
+    },
+    {
+        "title": "Drop Role Id",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-41-57-66c5a2a48ff5ca9c3871e2e020931bbf/1/WebHD_720p.mp4?Expires=1665745916&Signature=koih7DFprYCAD0XjhdEELG9PCxHAitVnzAhFsnHnAJHindAvJHVWF6GXTCbnHunPPndF0YuTOwdYHOI4yvdWbPKzaNMyRU7tr37cX~5I05cpbd0MooMAVKmdnTJUTVio4RXFZdO4qePa-twiuVOrkzXZokcRDhL5Z~oYaZdITD5HcYbs3McNT7BW-8ZYoEm7v2TBYmfPDi14JI6w3kAEGucDffr382z1s12riRFdOijNaNc547aTU2aQ4aj05eDJJpXg8AqnzDRypXQk07WVVgUxwoRbpcxYpwFQDTnz1MlQA0zEJAdL2bfKqsPj3djBheE0shxC-gR2ssoJK40eUw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 88
+    },
+    {
+        "title": "Scopes",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-41-57-7df3980451948dada105444746a471b0/1/WebHD_720p.mp4?Expires=1665745916&Signature=iflqYna1OKNx8fNxTDUnr0qFbG4816Hix8uVaFd8cog~hPbE42ixNWYymxXakGOG8omUAeHZ0UacY3Og8Aq9s8PzT~iXZ7-yqaBNp6FIadvmMMxy1LTEyrQOgGdmdcvr7mB2oa0GshdmZu9oJ-aPFV1XcGGgbYMiqgs1BE1EcTJwHIo0ARz7PmfPg6Q-FIuoVxnT1vmaGLW3FzXdStO7CUXbNKbOaXIvGhFZSaWbi7FFgKs4nlIjpbTldyw7gQFqwSiPYQwXgNmvnOieowBjBROlFL0MjMdJhGvd0T3n-VvgmQFWKa5b-euFm9Va5OYd9zfU9bGKt9AZSakm5sMVog__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 87
+    },
+    {
+        "title": "Links",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-41-57-571279e666b6dfa7149b6df5cc442e94/1/WebHD_720p.mp4?Expires=1665745916&Signature=kUiCHnsXwYJX2t~umbvoOv3anDPOojtyK4LxBjHYpMmhBYdhcxIjafIAc5ZJRgBomc15Y1C7y~HbxNc2U3DpsX9Em~Wa7JC7L8ns4B7b3GHVJ8ITMraNciHGxm2BU67Jxf1CN2Vf2L4TKCIwkH022ptnLApfBLRRACFXXxKUKRAmCWaeDrkPI4qgj1yxIHh7jy9tQK9XDosSsQAL9sx65E5rBXKJXYgz9PyjgLvgIefJBn1Rbu49Ro1qFnYODwMCUpiSH6-B-q6Q0v2wjzHIBeO0A4lopVTp7KnxMMl8F5WZwx2nG0PkKKmlC1ruck3WRdijgIPM4akebFYix4cVmw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 86
+    },
+    {
+        "title": "Checkout Links",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-41-57-a6848eb9f307147e2e723ac8a3b2b43c/1/WebHD_720p.mp4?Expires=1665745916&Signature=VaMcd5ImxnEJxHJN~pWaRYkk08EWxpSXbCxH02oREjVOJtCz0D1ROaWVREwkd4Q~o6waiVeIiHu9saDCOmEnSSaLCAz4xkvdZ2E7FV~cEDz10piBDKLA6lM-rM-rno-vAN2OCKdjPEfrvK8JMkjLxaLTBrlNugqpKOjBMBKcsnn99BDVpGrsfXFiOBj4PPhxV-p-Az3dGPs6ESZGlQxArCHP9153Vx1f-p57N6OAJIFW56YoSL~EP13E0ZuCad27eyv9npt4DkZMF-X3U-33jBm-PGRip--GtiNlUV1ARegmyjryjFLA~IMmhooZiYzO~ybxvqsSX4eHDhhNItMt4Q__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 85
+    },
+    {
+        "title": "Creating Orders",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-41-57-7bead7fe00f1b78dfc1a2cbd1e33d4c0/1/WebHD_720p.mp4?Expires=1665745916&Signature=WVolGGapzyzbLy3oba~pu8ftPQkdVgNEXEnM-FWW5CYHyl1TZgddJqVjIuTxxKzrkZA1q46CjNbTdVqleNfPhXnny~Yh4HmfmtppH8eoqJXIQ5jlnbg6NOTglMAjnm~NVMFPtgSN2mh14m7vE2rawvGJFT5YM9OnPMh~eq-Ic5yEZgct0xilM1~BoJvrGb79B9hsTVx2jTr25-vxZSuqRpMqJZrf42lM0YswSADaUZq8kY~sbWbRQm9UV~qVw0TtbJZmQE2GWrG2h0EAyHnw808RZ7UigLr-3VSV1s8Ry2JgnLreEZ8pbHPaljtv-ByIqRK~SqimBO7lKFqZR0JwVw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 84
+    },
+    {
+        "title": "Transactions",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_12-41-57-de5a93df8c898cb1a43534eb6311ffc8/1/WebHD_720p.mp4?Expires=1665745916&Signature=NquEPQK2jq0AX~bIZeWEX6MEqnIyKLkskNRtOE4gipW799aVgdFov-pw3-IEB5Zarq6IMHPm~GhkjFgSpJaV1Q0xMHW4XhDxXPXWz71HhxV1E3yJXo5ozVYtcsVBzwojI4AeU0qxxS3EnJNpkZlfB~f8SOJPHVFVxGzMmmLUhoDooL3aDxulwVOQdX7OYqUiJG~z8Dw3UXcQVFmOByebemtWY2Ctp8TnN6u7TDOjspgi6QJQw8SAu35MNjIH7FAQ3G03gNpwE~xI9hjjAykkkq6~-CPsstXJSioiJPnOefSdnjcUun4orHz4obNELJW-cReVY7mjQvVb~QeJFgLBww__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 83
+    },
+    {
+        "title": "Stripe",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-03-33-adec19c2f6cfcd16e1517e873a3eb082/1/WebHD_720p.mp4?Expires=1665745916&Signature=BLdCf79lAM6DNqXGpXJ8cnbWuKaclWHAr9LcfTugMEj8fxjHVdOm7v~L6iztAyhCCt6COZO4DFsJ436hFd7GgqRO0njUn9Lnspo-5k~fLo9iH-13kNdiHWwaZZzE~xQd004Koc~McyIscQaa3rhDpa6372K57XcXd2gW-llP2rDgjKFC4L1MB6B86o7pBDDkl8LklEF3d9alVqYA~DL5tQSGVFJZ1g25OqnCZui-6eF6jlo7Epy6AMRqelLwzdODFyb3ARB6JuHJoUiYWhmQxfbRSTnXRoh40dSlgnls50Jup1xGQSW6AJTW2R0q53ltWVTrN13O-VqRCUjonjDNwg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 82
+    },
+    {
+        "title": "Completing Orders",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-03-33-8651ed1fe2a4f8680b10b7b0f9df93a8/1/WebHD_720p.mp4?Expires=1665745916&Signature=F8Ql6QOXAnyYAFm6V-jAHjwScqfpx3jr06LJgMRNSsMiZWsCbGdMgY13DedV6SZtRC~dlCTb3qj8lR8USwG73zXQkf9z-I1Kioworg4Ex~eqngGcH4qX9du6PF~DTe4aUAXdLil9eqAJj1ugPdX3u70xGj7PGyfCpMp5xPRWnbPI7ORIgg858WIi1czbhVAVswgAzHEOq6myVlZvSdaDDzKZKmD39Ph76F9Qb8ZBszpRod~NVROkaz8qe-nPCNFrB2bd39Rtvkyy3TBComyJzRy2MVcwHIh7qRAfgekIk8B2wunMBdL1ViMab7ML0gYDVycHl25CdLXkH3HHo0L-Wg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 81
+    },
+    {
+        "title": "Sending Emails",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-03-33-0036bc7502fd0d06261618e760c056fa/1/WebHD_720p.mp4?Expires=1665745916&Signature=NISVDkp7Lwl-vGFCG4VBLuCSslM8X-wbSYNQKZrXP3sJNPe2h2iXz~Oy~swCYJOIYVW7qjSk3eCbH-vKJmjNkzbUyzrySu0Timcvv1wE-Dlg2HIWf4UPRyeU7pH~gMw5dXQOUBEEDHa8QpUlWDn459e5D1CM2Qbz3TNW0Bm8k6e-~mTJLeNtL5ky3sseDNnY2Q~~T37cWybe6B0looudFzMPxhraJgRgkdrFjx6Wumvg-ENg~CztZ26zc3r~kk1ZQkW0nWTKpTiwCO8Q22M9tnCVsPOw9LXZZPQGFpsPCku~l~Jn~qwmE72Ncm-6uZaB9~du3bursC1VF4xMY~UyTg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 80
+    },
+    {
+        "title": "Events and Listeners",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-03-33-29a45366349cf401b6c85a22e7110033/1/WebHD_720p.mp4?Expires=1665745916&Signature=MK3mQZvpXySDPK8XRIQNrFZ0i69UsrQl18dspZiK6XxFSCz7qB3jDqFk3x0fNMfAqUW9-JO~a5F~I4h-7c0DGh9kGhYbt7U6l2WbUP-pLyf9~Rbd4~LTX95zUuopQxU5L0uT8m4HTPMUJTjcP81cOeWHvXY8Lvx89nzkRNdP0glA0QP-IIL0cJf3S15U52ZAvQMRdIKcLguzAaJIqAm~r0-6YjzoT7xYVaP1LWbS2R4uZsR57BxpqVOH39CloBCMplOhgZ8UXJVhhoXcbA3d-5VQD4XeceY6tzAQAGopKwJZ1zLYDTEd-ozvR3gyyRJHlbJMs9J~oDrti3KtoRizvw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 79
+    },
+    {
+        "title": "Revenue",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-03-33-5eeb778816ab4ab261328e937cd535c9/1/WebHD_720p.mp4?Expires=1665745916&Signature=ggbSPlNM-CqCFc-rQpLj4EbhNTZPPLfSz7vxYrWQX1zmP76fKz7HfqtcSCIlxkhzAi9-lcTqbXZv~RLkV48SYSmdT619TOo1eO7wyRFQPfxHk3QWpnS1BkkdKSP4DqeqRyAIdr359rqd7PQHcZtlgYW8h1rDRXz6sPw6A3p-C7KtAt3stxkOatth5mKP73lZLLLN2~-R92ljjhotxQ-9-eQeT9XTN1sq9frvefB4nOVkYPK5wrnV2d-sOsiW4dHY4D-HUzXSlTwHRyN4xZlcGmxVyvb78YsTWNAttTd3hmyimm2lDEaptwZEVOCos867jGY7wEt7mLP7RMM25oL~4g__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 78
+    },
+    {
+        "title": "Stats",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-03-33-575a1487af2f20b9934390b61abe3f4d/1/WebHD_720p.mp4?Expires=1665745916&Signature=E82lI3WJuTZUvTv5DhwCclHCJVoMvjmgNP0oHcoHMMbH0-GZ7Ngd7fWUVASLhzIz1sMswlpe0LZdSfObxJmBZPqlEmwbllsC2CVUsWZJjzDyz9SB1R5b9Fs-kfoelW1YyQ8rQ7QBEMgcAqkPAENxomh3pCDH9HDKIcHhGMo2OepwkfuEsiNOY1hP~lXBmhM-AQzDOIc-JdncFYW5mNHeAVq1FSsiCsqKFtcpr~nCNPpbWUJ~FQmah10M0CDJo1zzK4H1pTesgqE3KHUeOeF~9f0WGC4~dYeEawPVhA49BiiV9oHzp90aDMVStf4X1CWuh4-5LsoPay~hHhN8K2cWEQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 77
+    },
+    {
+        "title": "Rankings",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-03-33-76c8bd9ce503240586051d168704d134/1/WebHD_720p.mp4?Expires=1665745916&Signature=LbMHwnLB3dW9oE~HPsE-yVkT2h~sgnsv26wMNql3ZALH679aJR8APSHibiaoAXS9Ej~l6D1aIBop6WpWuSKWw2c1GNUjZ0NwlrGR6ZXDHZiqlZA63m0ppez~SiG9LUC8bJw3JiGf8jRHI6rmoY~clUIsLp4ODTcKN84wMZxGuUXrz9akCOSBkEFtFJF9e4YTNImOIc~c~GXwW858-FfcrM-FmrFgQJhkwgcwPPBg92Kf91jWqoaUEO7~-dwSNOSVR7Dy5u4eYO39EErccBAMJXfbzuuPPcQwrrMwlMyDK8t9hyGZn62OsI1BoX-XOZ4K-gC-xDuiWTKa6J29FxMXGw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 76
+    },
+    {
+        "title": "Redis",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-03-33-3bff47bbe53dc0dc2efdb72e8a3827d2/1/WebHD_720p.mp4?Expires=1665745916&Signature=WqXkanjM3uB-F8wf-WspEkhkRbcxvkRXNZmva17lIyzpTy-qayi~Awy0cvb-KKbnxLHg5IFw2VLSik~UGNHRQPsE-ZR9~4e58G1JFGa2KoNazuiyHZTCB6awpatfmeIxiq~6npc2U1nJ23wDsjhk7RHUnFFNcyX9m5Iq9NYhqDvDQje0IjQ2krtB5y44hwwVlm7bAeHC7q3qchq3F1~7MCiS-usl7Vmp5y7M3TVrrScbioDx2oWCHPTM6WWnQnu53cuR-w~sRNxG81QYm0aJPOM7y9SBvLxcMidv0s1bNliXux~12xULReMa0S6rptzWQewtawmoPQ9rvOjJFC~UeQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 75
+    },
+    {
+        "title": "Caching Products",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-03-34-8ef7e35241682c34d1ac2ce2c1a5c7b2/1/WebHD_720p.mp4?Expires=1665745916&Signature=PRcL8GVoIZEeLkQCVyZPO6iJv~FUCVORwVwHu0hXKWgoxsT0eotFSwgtzw7B-OzffO6KZ00Gu9pYM4U-bSA5q25FKCd0EGJcogTSXdnGswMz~aMUaCtaQlNk45-pW9xmu~jAGnG5d2esM0EiJSTo~9FM4RxS8EkNOGubLylWqm6fYxbzG7IQ0NBnz3qmac~Uv6N4NsLQMZUywOlFgOrl3hiVjnwAh9hWnF0WF-v7zaoEFAdVNng4f0VMwHqhEjZG6DpaFEazO2NwwFy2k0jjLLUtZ-iDlSGyFDyztUKQ5ke1nScZKP3Te4lPq8P93Ziy0I84bwWetw-bWlkOMO~3yQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 74
+    },
+    {
+        "title": "Invalidating Cache",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-03-33-7dacff47cf8bb8cf34b10a1d177f945f/1/WebHD_720p.mp4?Expires=1665745916&Signature=ihT3DE6L~gWDKidBnu3jdJcY6C7qQrcIJXdB4JY1RYwfVZ~ckHPdzlTQ33GXQcQX7AjM3eA47O8B-Y5WfDSIOHQGYxW3~KOcQieUbzVvEyCK5n9qSN8oHjJFeheDqQYPduA27kfa1ZH-l8xRes5IJxGa1w7VpNS00HX58dRTtXVw2y9S671FfqAHb~X7LOQOnzJndY86x35EQa3AzUUSH2Hvaa4Bu-sLGlNOqsrujejinhndtX6s~aXI0tTuECcyyOeZ6PNlHhx3x94aarOOBbua3iE8ru5iLJXDRdlxHbwWonyxUHzSEe4K5gwyDeV3OcCjyTgGqi2rn3tlJ8DeeQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 73
+    },
+    {
+        "title": "Filtering Cached Data",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-03-33-239cadec4eaa2b0869a66e06e8644b39/1/WebHD_720p.mp4?Expires=1665745916&Signature=DhKqrXgUgv7Sld8gHQtsawlFqEviJVayMipRynKcx03duxP9LC5USnyZpMKI84-rwJ84lcmLoF0SfmlWK7b-g2qf4yi0jUFNBfein6OO74591c~4i8TVDgXDUW2oBnNYr56PN8Ljsf1Os1Kws-HamU-cmorQ-E2gzAoX7gO6s2sMenJuHwZJI7o6xyK6bYOj9CjS06u6Fu7dVG8YTHmrWTh71WerwURCQASaSOcJW3BwMrCQgEbZS8JA8HusHlv~xdV9NPHoCLEe~WbY-dDx7-Cccvb2wCyGZt6f~TgSzfsLVQfmzVerN5tDqxvKo936RNAb~~gks4PuUIKBxk5R4g__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 72
+    },
+    {
+        "title": "Redis Sorted Sets",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-03-33-02a63ca5f2f1039402092f368a49b289/1/WebHD_720p.mp4?Expires=1665745916&Signature=WOtrRw7tNZonuhLfFqioApk7LeTvSZ4p-JgWfCmnJcaroo9OzRg6TnBhOSQX~3TRZQVCoedO60vQh8wUq4946~2tC1bjiRYjjLpqnYkKjv0YChx1eRAYU94Exd~8HQRO4BrKaD4PBnvVLVIVvFjMwW41TO6pS6Mm8ewjm8vA58qvLrkkIcqGHUPL7LPbu2qOm0PqAusHBEZfoU0Yu-QX9CSkBcPppoO0URxLnnE2ayb0EFdnJd4wlG9xlSflv4A9houj-jVKjjGnrS6TcH86~eOJJJh-k-6M7rajydejD42yE3iitgi2NSm510dEuKBzbKOU-ZEMBkpMU7NKrmA0ZQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 71
+    },
+    {
+        "title": "Nested Routes",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_18-25-55-9a2f04c2e5832504856afb5d6a1520aa/1/WebHD_720p.mp4?Expires=1665745916&Signature=SX6Cqxky8xlZuGUztjoGu-uv9UR-L8bzbyFcm8fFCq611kBWrUeX9P159aNRasGtzXEeakinxeSSk6hL-lc1nhF3nrKSm-lv9SIEUcsa8tVykFJkwV8yZ8BrRe9t-RjvG7dnWBTimfRYsoDvyZNCxzJoAx3Bo4yemKvFSRX1wc2GfHLBGqY5AUQ6Yuo2K0ojN-Fl8ElnZnl3vRuhHrArBHA1tr2mwxwXHA2NzfpIYV2EWOXMIoewH9R2GQNeRPNzsYqNTTjYcp6Ls9br8QOqNWftxRKlYev6YuIWKFM3N2eeQ6OYqbw2EBJTW8X68k9UNUOtiV5effLb~xtDCL8hMA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 70
+    },
+    {
+        "id": 5521376,
+        "title": "Vue Influencer",
+        "type": "chapter",
+        "order": 69
+    },
+    {
+        "title": "Admin Changes",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_18-25-14-f60c922dc2c89b9ffbde11ef0d53e00e/1/WebHD_720p.mp4?Expires=1665745916&Signature=SI9S5-Iy~54bVyhrkW9-qi0~QX06waoQnKFGD-TNP7aqVk6s8gdAJcqOtxpS6c5HyCzJgT91IyUpyIBzHgwQocmaqt6T8UNgoZUkNni5bVZjUhUX72Ftnf6Xpu0yYkgoR6k~SaiMMTLuv9BUeBoC5NBiQffHDyw-shjjdZEjM9UOd5W~LGj1KeRSoDPmmjYTzLnt8e0Bw13Z5FtdBgJWBd9UI9SaCDv7B-x22FXYEHAFvMtof~g8Ge4FSKDy9RQFV6kUXNiXCvxt42CmuYp6NsBNTxheIeNcn0PW8~FTZ3WmeC41EoerdTlS-qY~JKIh69rPXHUhevlDf7hPMv1L~w__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 68
+    },
+    {
+        "title": "Installation",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-41-03-10c684d105781d9a4e5ff665e9911396/1/WebHD_720p.mp4?Expires=1665745916&Signature=l7HIaTjBbryuUTgx-7DQ6k0dypSRdmQtUnebvDj18plaa2v4aWhJFtNFZI6Wr15FrexluQ0zJAu0bVtcnrtL~~PJVOhNtqT25sgONxcxfSiC6LhN-a1sikchPE7itD9gHWLu3oRqn1N9-NsyomOv~rGvksrM5SvBsj~JxkpOPlKsM3toTHhDSs1KFluu6tPfjknzNNc8ayHXIM1pLdYCkqxbZflh~NYB8injg0-fl7xaYWgUMtNap2clfdS6P8bzy7yt2y8FlRBSTsCnbyH39BtLXwGUjeWkJgg6JsgBCy9tt5fP5a61Xr4OEY0diA81AmsqoxZeR4amgtFBJQ-e8A__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 67
+    },
+    {
+        "title": "Template",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-41-04-44d8717060dba877d4744eae6f97fb05/1/WebHD_720p.mp4?Expires=1665745916&Signature=V7uZ2ofTZzB-VKbMqSYzLEoBJ1ARPJON~ZW0rkXwOszzvhJjwYMnEPmVd8gYKaI1iO4XL58FUqbljrEcKPoX2x5p731Q4DySxyHxzarne1Mxfv-TbjGeWMSgni9iwF9wuwxf96~2NnP6dzuDxjE9dD~2kGEuvzgfgXrbyiLF1r3HuKQn3IyLzP9KuflTpbDeUti4mbeEguSoyGrNVgwgRYSPXmm80JBxrvxB4yYuoB5AUHuk~rUxa00vRXhosHfHJSCON99IGnAOz7jIjV6EhADi0C075sOTlMkmK9N8xpsHbNeYn18xLzqHjb6AAJAda4z0uoE5~s2yy9V7~V8rXw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 66
+    },
+    {
+        "title": "Child Components",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-41-03-267bfebeeeddf0a70c064eca43edc9f1/1/WebHD_720p.mp4?Expires=1665745916&Signature=lQekvBoFV0O0IQF0Pf4hWefZxxvGgHEHBmDDG3xM6y0OQpZBmlZrNsli4hTp66xwcHq9tsSu8gzJVDCOM7ZJJsSxtugyDDrTCHTuX1ktCC04HzglSlyczyutoWJBaCyzyy7EooADtdG7NYlmcmQprcWbhxd1sGXPzUBStGC-AkwwxXT1wHkOauJTdMjX9imv6d39TYtJ6h~4TVaV4Bj0A~AiIKWFglq9MFln3KfAeQm0-4rD-pM-G3nWDJ6CLh7p4X~PqCPH-fX-e2iaw4XLXGjogBzkg7-P1F6F8plHMF50pSYayk8-b7oee3Gizy3a7frscNtgsMs1V3hT-PIV~A__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 65
+    },
+    {
+        "title": "Register",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-41-03-f990bb084e4d1969e520b6986b145d69/1/WebHD_720p.mp4?Expires=1665745916&Signature=IhjGEJHhqRqijciPbiKRO7KehVneUBMHk-fSIAPmEKGDQa~XSHkBSwHQvmvWBNchekylwyfJzPM-MvFdd5fMN~1b1eHige410yYfp7-8c72Hl7XikE1lg2qSS6SwzgwrXjKY6SWyF0nFqn~yjLhSmECuA2Bl2PinIGF2Jr3VrCtnXzZxUxpjgX~3qTPShPWxPZxeCTakWVGyaj1qHSZBNLIjrzkylwJB4Z-zw~AVfFVrQ~MWbyUjnv5Fy8FmDU4w6UfgqCjyHFDrkuriIcbV7SrtdAs48Y7oobsYsuOxeKb-JcIafp8WpOHsOMgwkcUo~WzIRXsjAcb7DW~kZw90kA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 64
+    },
+    {
+        "title": "Login",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-41-03-b925d3491850c3d27248b44739e1d366/1/WebHD_720p.mp4?Expires=1665745916&Signature=fzONtRbudRyydG93KWeuvUdSXiX~GoH9B3Yf18UnOaYlR6IZGsXX7F~tz5d4QnnjAKzYnwE74ANagLqGysq-QlMHgYjWI0Ulnu5saXhvdrMYtt9a1UQM-BvaiK-AObAqiNYtBC-~o~Oo6pIQ4Gg2uqwfsuPmQMXaVJEXWGoHaadYaUJbnJS~Q~3wowZj-y9dYPnumbfcsShIxp92zLmQ~EsjMslVTRdL51HPjW4O2W2rjs7YG31iGMEUp8eHLiKReEFZP1Bpm2gwcmQsg8eu1CfRj0xzzAoRow0aYhvumdA0Y1laTVgY0efnSB-lin2KzBmV0MNO17rbpoGOYugJyw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 63
+    },
+    {
+        "title": "Logout",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-41-03-db26ce45ae2229ebf164766fedcbb212/1/WebHD_720p.mp4?Expires=1665745916&Signature=Um2cj21xvxbTFfBK5BTd~R4R5mjpfJsbccAnlPOa-JWOluQlDSeqQ3ake3h61HUXogIfUTv4mSYWxQYOhAhSlajsCXWz9Tc8sdd7FGypke5LMPhoiedPCB7BRRARMmVd1XmpxTib44U5IKiMH3QmKXBzmOXjzCIJa6sIpf-vgVFPB3QRZt3ymKcyd-Xtz~XSfLoyNN1mtbvHeokHc-jXIjGNDHSDcvdw8hVHCm~vX80zfecZ1Vc1YfMEp7EIauiZIkUTvQNlbP7t8dXHYDPnd~Lhc65by~-5ocR2BPg4YlnEek0jIhzv8xuTBttAhJC-J1qSifqdOP9XIxpd44vl6g__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 62
+    },
+    {
+        "title": "Vuex",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-41-03-247ec4f9dac8b2b50024c240a80e144c/1/WebHD_720p.mp4?Expires=1665745916&Signature=IBtWcwh0L3yeo4Ni8PvPkUYwMexD4gOXd1IMNyRM7sniIEY2ZqUc~oH9355iZqhQpMHiOrvbu06vmuYCdylLnjW4v5c2eyPPSFGQvjnIDTQR-JMJdQ8Stuxpn-ObkHLdRtwpfQ1tJVwec-X3YYPzcqPMYDCLQmHHq3dcIcaVPWibUnEvqrmrkASAh4oGmDKmWEVHP07aebMahs-hMDo~kUxxWQ~lR49U~2y7xt~5M1kLEnVESawcZ64JwGnOLavLlBnWwS6-wHF~~~fKDRYQRMCu3Em2ZNILP1JnPbsbWdGYxOanlDSmi7KQV24ZDEs~BPtuvyD5JjNzmXI~-xX3AQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 61
+    },
+    {
+        "title": "Products",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-41-04-47f9206b0ef6e0e25c8d53c2fd819f44/1/WebHD_720p.mp4?Expires=1665745916&Signature=MriREFy8pKkzv6usyXqxPX9JXiYTOqV0NleWRHIe3hAbBvx5PHLNsIm0omEI-hhRIQ3Lj0f48Yp2hiJNP-2Vfyw3leSW01wdsuZreBXizh2BS009sgznpppNOGYm9lv7WSZ9TCeDCsnj3bVbj3lQ84xgFaHAzAHhEi~lTARtLqAG~cdu049rZSD0sD4m16ggTFZPIwft6vsWrGFrrU8BQdbUifN58-iPdoRV5~QAODLm5634obz0jY7j~SkARrkqaQLumvrYqB0A1MMvEGXdS4IDVDx-Igp0X0kVeojcPkGkOfCPdh8SPnuf4y2KZdiHx4Zex1y1ZWN0L9pMfY~dLQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 60
+    },
+    {
+        "title": "Rankings",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-41-04-2f09376cf7f811e902b986dcb91819cf/1/WebHD_720p.mp4?Expires=1665745916&Signature=eu9aPikgDwKHedM0P9Ya-Mvie5vAqoL-CBIXg5F3w09gGexg6KZqotnW7jNzMNYyIuVslS7su5GdnH7~yrJmOo93ME~74XyIPxsac~gfngYxneiMKx6CXC-aOhv5IKJpqJKKB2ddB1FBa~AjSIEunZeXKfwHCCrDcosn~80gT-6lZHYlOjOqBzu-p0-eHfiDR2R2RNqNrZjvbObopfW2LgN3bIKJyZgnt5ZKN5e0K9VEM7CLlkkrEQpU3fRUhAfDQQ7n-sNlUgT9G9oEhqrVn5fhitA9hy11R45OPyDa4LZ0BRjGlf-vL5JKmcD9u1Q9o50N87zWkDQQV~JcitF~dg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 59
+    },
+    {
+        "title": "Stats",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-41-03-fd08fa6926737b3041ec655a4a0e4b00/1/WebHD_720p.mp4?Expires=1665745916&Signature=S1gQYP9MhOJGkNzK5SQSaIQJ0buFgjyoWWpufi~q~RFULySChCj9KmSFyfTWGQ40Xty5hhU7PwRHsodllLtS~YY3WrsEvwlQ7HmuQAMxfL2Dx0wnHVnMNqUX0GNOnuUzHR4reRvgT2WRrBRdQEymQdpZPFCkZPgMPqG05Zk4-~Fb6jndGw2QLVHcnZzTq21tzGMz7knvgvYkpzvIncmIFR2jOSSBPKSioNJG3TS2NWA8F0226Lh84~pCK5ZMewVCsDLlElwhoInjyfwv258ObvI4SubN6FF1o3kuq66JQhzJKiNN6VPCjpgwkA9Trr-xoNkJN0zPEHFPfdIVU5AWSg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 58
+    },
+    {
+        "title": "Searching Products",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-41-03-53525f40818fcd6226f0f880916b0873/1/WebHD_720p.mp4?Expires=1665745916&Signature=R--ccVyD58ot9TU2xuGjf7~gnUKvKnedNgnesY8kBRq8xSQ1UWTES3oOcS6~5URx9DCuBE2Dxspobqfsgn~qy-EyI37mkgjpIZADv9EjoyBBtS0mEBhD3Vf1j2FWKG9Rp2gD6VCDkZBna0k3KEKzO8TwvlMk8H80u3jo2OEu8zxSL0BMJseRjSrTwitBLo7NiTx~l8DUJqrVQYOA8gebORWT88iINxO2GbGKDpGEeMt88uph3SF9hjdEayHw~VUQSNzhjHPul7ta1cyK~rCFr2qmedDZM7S5m-NAHDyUy0xUyggnwaIRy1yh4vz2Pg7nRoFQtWvRVCsFV~wkb7p4xA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 57
+    },
+    {
+        "title": "Selecting Products",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-41-03-dad9fa7c8e708a22e23f349f3b0c8e87/1/WebHD_720p.mp4?Expires=1665745916&Signature=cfdb77amZk8aDY~KsVwN22oZEjODRerotm6K0c65CH0iMXZWYTf-NTqkjXHcyyt6QaZIbdqGNEu1c~DmTA4bUo3jI2kZHnSiIqW36fFfWaurRsYFHI9EH2Hbx51gKn7o2N0VRcMYg0ufAhir5ULHMck7u3OnJR-lD9bwciVIHSwUkyOuviFiEiGWRJBNLW3OyDTr-1KBDVVtQz9gf1kz6Nm-fqPntq03wOjESX2R-9Uv6UmyGyfvL7Hy0LY7ySs6mTpJZioJIS5~L4lnPJWZ3YWsI9nM8y8Mg3t1ELX547BXQhuDmp4hjGi755tefgrBblPnrzbTKOf6nqOicdGdJA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 56
+    },
+    {
+        "title": "Generating Links",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_13-41-04-54a1db7c2bb5386ae78363ade129602f/1/WebHD_720p.mp4?Expires=1665745916&Signature=XwAmIRxczUNIgjdeoIDFpfuQku4w6qiJ7bunmqnJ8QhSUcDTR8I6upgk8~53R96vXQOWNWRm0nt-l6eenxdTxEf3r2YZa7ycMUN9hV0P1428mP1JT1evL3bFqZGoAtLEdk0GrWSvXuc4HRcKdZZYDeKWGpU99KGPGEAGOG0mXvVmQ4wnCUc5yfZ8Dj2zfRW~lhnk2XdX2XjRjyFDT9iUf6E~sRTcZcPOBgkEsl-OOM7RZvaU9DEspVoILe6KHgSWCdSlmqbeKUzruVHHWrj5UJKxYFmTlMTT88Ot7kJ2f7RBHKHMMvLZQL5K12vpioX9dA59kuxqwN7KVBI5-SMJHw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 55
+    },
+    {
+        "id": 5521392,
+        "title": "Nuxt Checkout",
+        "type": "chapter",
+        "order": 54
+    },
+    {
+        "title": "Installation",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-11-28-594f5a2e73b50ddb0b5c07be8fc0e6ca/1/WebHD_720p.mp4?Expires=1665745916&Signature=g3UjfWlB5hl4D1ib1M-3RrosA5tgnoaJXnGnbInqSD848diZVksJsnEWGTBiXKdZzjiVSsDjXuw0jhDyeK4bKLOc7WKFhVjCK8WV4Jw5ciV9TnlTzdVntSDGkj9vcgDPS3suts6IJziS-D4uPdOW04MmF4NxSiMYxLf6th757runCihGYMZ5jTHaqUujc6PV2VwDcIIhOIdvJHe64Z7dzbPndJeSmx5vME9ZGtz0LQ1KSxDE-2BtXD3nifgRclkj451hmHQ6OhytZyLBC-Ye-IvUVcbSHi50tMX30Xax-Q6qTx0Ar2S5-5GSfFcr~PUWrZmN6eZZmEK1Ldrq4-7aHA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 53
+    },
+    {
+        "title": "Template",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-11-27-63ab96f75a345de3f7303074e25045d7/1/WebHD_720p.mp4?Expires=1665745916&Signature=QD9X-nBviA5U9J8SKtSJ5QH4rtegY5DAcHEX1czEGKG1NEBlLvXObgY-4~l6AQq4FRtuUpYqkLzIwLinYRUcyWi96s7A-wbRv9n2bb-axwi2R2feqrO-yzF6IbSwVzHAF5xi9cPb4o6BHjH7tiY07LdYlTRhKK8AI3UdU2LWavvB9VJNjy-P-eWZunEIwolEMq~t54KOoWSiztKITGbGEXy4QArpqYRfI8FtpSkeXqN5u3JycD6gBRnxA8yxs7Ij3JTkOgEn773UEgx8W3AdRNmGdK1P-ZFtqn~vflSswK8cuWVJOQWm1S8Ku~Frhnwt2dBPcxqu6oati5u6sWnflg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 52
+    },
+    {
+        "title": "Routing",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-11-27-b2b9016f0484fea86e16697f4b332a27/1/WebHD_720p.mp4?Expires=1665745916&Signature=HQ2F6wxq0weI~ArUopTkUhB7x6KBC3G9c-cP77RJ0BHgIVXoKJKjeVmsAF4luJik2DbbMlKFOkJlY4hTYfGPVr-0RhuIY-p80r3F-XumBXXWZM-mD7fvfVJogHcQkQ15eYa23kWrBCszpnVSmStM9ATYsoUJIf23Lj2RICUNM9P12znVeTimoIL78rMo~7mnyWP1FNS~QoQZwnkJ284QsPL5wBN8eVS8Zyk6Y2-zOTCxgn0C1rwmFRXoYktH12K70fr0z8yaxoiXzBYpafLWpoT4IsR3wKJmjvA~mYQWnGmY34YhulcV2Jen0U0sj39YK8JNZm42~5K0Sco4zvGRgw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 51
+    },
+    {
+        "title": "asyncData",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-11-27-c511bffd0ba00fde787afa0e56017fe3/1/WebHD_720p.mp4?Expires=1665745916&Signature=UopNN~6P82pm6DwTgdotnArsvR466Aa2FQGbBFdf8aAzOLIfq6xNouLhoZwLvqAfn8HA2hafFyJ3rbY7T9EizqQvIeBdZoKB1Iq-k1aT1TQ7WPUaFv9DCvlabfQ97~h1YXEfGLp7so83~86uxEpdrDJlcB~mcNpUqM97xOcYqk677Z5S8XZRxNItj3i-P3oVMUhuZyoIGMNwVBabOuAcSbGuf0EgNbNtJ7p7VsyopwsLnfWdQrL2lDYKYY5b8xPHm8MbNYjaPRoDBp9Nwwx83Memaw5sIeiogm01BQ8Kk4IRQH1wLYENKYXUeDIBi6~J217TyS4Hp8js3kR3eU5MWA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 50
+    },
+    {
+        "title": "Products",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-11-27-4a9fe07305ceb048583db128f4d9feca/1/WebHD_720p.mp4?Expires=1665745916&Signature=MrECUBY48wAKD1XlIiNeUV1kXdLD~cIA2qzQiGQf0pkEc~Npqt6x8WYlvsiyMAirkJfMA2vC9t45QsX8SxHaABnzicuHNsGiFm3dU~zCJKxnczDs5uRe4BH80hpU6fg3ffuvxqjc4SPh3sZ1~m-egahNKvVD9vh~dL1cxBRbEMiPvwD6aeKmuFOFdqqSMfQ0NEJ1-6vZlK7A21jxzmHSq5I9QTEIKXibcHNUF~hJDzZxwgZkKLQZLbLjd2LCr-90XNeD5QI9ZhDfRKPxd481uz7pLhg0T1tRbzW9ywdgTbzIDtYzDd43tZUOOfUzNhcLV4CFCtn2qKlyrsxbJOpCVg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 49
+    },
+    {
+        "title": "Order Total",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-11-27-4fcd149b127bd161b84e2cdaaa6b2d35/1/WebHD_720p.mp4?Expires=1665745916&Signature=WNqFtXL0iZNTaCuvLL80mbK22rJfNmzjhq6X28a371loaHALXfdTEuUPpmB3c0-57cWS28pr7qrnOOW8Qg2mDUNUnnn7HD1TuoGNMggqNdf8FT8dwlPontGQ8S0b1Aby2QYb50XFLMAMg31ZhMfg59l7cqpFogl0pA0avMx59SLjMz1a~TjB3VqSSuLmL35hL~w~iBWHUY2Px25QRJZ4E~oSe-vqmijdBZruV58uQnGvJe8p8gl2nSf4qEt~bJAnJ1cV-yN9sLEVC2OPoDkLodR~u~Vr4Hb0gqT7spkgwrPgYbczh5MKklzp-SbhialDQg04doj81A3l8wzEOuwusw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 48
+    },
+    {
+        "title": "Creating Orders",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-11-27-1025c56cc0bf96b3aac493e8bb32b383/1/WebHD_720p.mp4?Expires=1665745916&Signature=IRTQS-kCI-ANRRbPPXkfJ7mm5xwtWkQGObUuZNZhKAPYOEAdtJduIDdIeGoZg2kkjZu4D8xhZC7C202hGW3rTqZlqcItrXCA9tChGpJanAhJMQXpRonvDDWEBc2~FzwnWkzFfCkIWfKvwAgYUcXnR1OVOIsyOmOLt0NiAGJq~Ix5leOvyCMwlqHdOws6q8HzYwbjtTbvsK7v3AaQCkiHYPqu9aylbH7NXTcU4AzXcTsZsGtxNXk34xVE1iis6ttBoukCE83vFBu3PwV4fkb2nWOCHCEbNA1oQSO9aAoE2FcOKWS2Y6hZ-myLwXc5MT6lCtJB3xN8drZqmk-t9tyClA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 47
+    },
+    {
+        "title": "Stripe",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-11-27-edfe3e4984a5e76e5f5bae574d3f92f6/1/WebHD_720p.mp4?Expires=1665745916&Signature=TdnWYX5Nwx6ShPcHEOuPKoI2Ks5rgEFS7easGyNiGGP45e1uCQGYGwF8QKSUbxyCMBSodABiFiFmSk6l4lYhjfz-zqJ~sPWVxfShz62G6BvKYtRLeJGHJ0DquWs~w-WuYg737fIA7mO-wRwYnyCPB9huE6aBvCB55WnPqD3SxFgxzBRmvCtqCVZ~eGZFKvbTd8UnsiZUfoYNvPjWJ2f5VvT3JVSDPVn4mFDMsVJVv6lKkb44NsCPHSLdx91m54SkTJ6BxO2du8VgyGffQtTWooSBb9us4MutstWy0nwulv5hBNQ6nBeV~WiraUtMg-BzHbyfveejjbI61~R9HvQWCA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 46
+    },
+    {
+        "title": "Conclusion",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-11-27-4951c9f85a54687dcaf94092b930c9fb/1/WebHD_720p.mp4?Expires=1665745916&Signature=RnUryhSTudaDlMosBnIEcqUXY6CzNr3ojNprNVCn7Ad~-D3uLvIEb-pSzEFeKMJuPRUvCQRlcYyldw2Qt1ex6ELwqlrZc-SOQ9mUK3gsgYQDXzCnwUgABTKpinHnLn~QtsMVbhYGShER5hZg9E2t7mwthwB7DWtrZKlN9iBN2d2msxPPsCwqoXBWUVUoPRgeETw29SUzNtf0N9AByQPma6ZgV4YyT2Lvn-UI~p0kiCGVBsPfdcHcIszJ7pTig0h0-UiUzFGbAb6Mf3Kre6oz7xFxmw~NkMiuHKQUaZt-ryKN9LcmRbeuvTPA8aymQWxuChrm2BMySFYJpXEw9pLsTg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 45
+    },
+    {
+        "id": 5521410,
+        "title": "Email Microservice",
+        "type": "chapter",
+        "order": 44
+    },
+    {
+        "title": "Setup",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-45-06-c287f7d035fe62e596528eaed8a350a3/1/WebHD_720p.mp4?Expires=1665745916&Signature=YQCYskEHMPzUAd7wB0rnkiku0AwSMxOyOy3LCLS84dX~4VLfC5BZthQqsjwL1QngeXjn57ZiwLKu5AtIJsdwxyZ4I8yPmBho~V2HdaW~PVAaFVallN9FxXyZJD8LLqmU0aSuRUggGftD~MKm5Ux4XOVN~l2y6oPMRkHAnB08VS5HwleTrZMFFlfGRmPXhfPuWNUANH17HTUuhSS~pDr9G5vL9Ydbx~EZl75nZR-P8NVAGTyFba6oNLzZycp5s37fXOA2uXybyvzSW78jIKEpgJgfkAzwe863brLn4TPX7G67TPjKVlIz~i6j8z2xb7GvLMfbxrQQagzIk4FADbowcQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 43
+    },
+    {
+        "title": "RabbitMQ",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-45-05-732fe4ccf4f88f9865eb149b34775a22/1/WebHD_720p.mp4?Expires=1665745917&Signature=jfQ5JQvQYKnq1g5DqXcRNb8ZgcYF3Ac~tSS2q8ipoq9opsFHGxczgYwOjYOX15kuU3DRjM3nFMQYNc9omq96E4VxuysdJpYgOcCg8UPDkPHhNQUQGorchJDdpPTvCj8XelE1acP-eK76WO8O6-QLsz6JBU8~wt7zUQvzkO7RJqekj4C8HyGScOvczW4z9fTBGNZdOx7tSLQOq5HOzfEpLwCoGKt0wndAmMnnoIk3IlPAoZSjEPozl7jYbczdBDp-WY9Caj28YEliqA2yc-ZA5HJfWfumfUN0srV~qd0Qu88Wqww614of4tIjpVPT~TUtOlq-i-f-weiz3mRBYsAi3g__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 42
+    },
+    {
+        "title": "Dispatching Jobs",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-45-06-00d66c619947b0c98aeea172942bb0b9/1/WebHD_720p.mp4?Expires=1665745916&Signature=i~CaqIu4YYcxwqBQxJeC2cZdCqhFwkpNBvjuUexaNyLQl~RZwKSOhjpOlgD36oY~bNj1uwYLwC9zMzLaWi5PnyJALTW~9uItJzei3fVKG9VcFQpk7OiasBvZE1O7TVQY3ONSeng~LODD2-2UH1UidapTq4-cLRk6IX8LAm3b0ZqL4pMryjQMn3IepBTkTF~AWn1la84VIRJuebeKLatmHkQz6cGikCFdti8ediGvolMIeN22mBAmmEB101ZXBxYCB4sWnlDcCoX-o7Oa731alBnlrxwc4EoVezqzlSIMzsne9T3RllUFNANpAkJ3RTGpIBQsvK4c5XZtpiZbq-TNMw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 41
+    },
+    {
+        "title": "Moving Emails",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-45-05-c9cbd401067252e9c3cdf3c5aa975254/1/WebHD_720p.mp4?Expires=1665745916&Signature=fYSpa0LaQkgq6qGcMmpk1wxxLaykXaMcBCJokE4qeES~h8cpXE0Q5S~8G73NUfY7pLo~e-YC77IACG2CjPC31tMTMl6MXfVk1FcVUHfOryreVU5EiGlYh3-FmcVUEgtcWY~ukZkceS794YeVOaJIoVcOo4xc4L7fxJZy~g9LkrKpNB2MAHG2jd4WhttslLkluQHO9bszT12OFAk8O2dPnxqHlSgu8xhs~UmaAzjAZN03f0KwypPwCDoTsL~JIGzgRWlK7KEpJj1e9DoJc7z3LsyMbQsOXXyC5FUUiK3uMTb8mEybyVAGsy4pp6hEBFe2RUBEPys0mG4Z4A-Z-8xNxw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 40
+    },
+    {
+        "title": "Docker",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-45-07-23ad487245dce9e249ef9c89309ec4e6/1/WebHD_720p.mp4?Expires=1665745916&Signature=cy7GVibTPoRH-A0RdTkeC2Wp~DyBwaF~voMI9fIk1PEQzL25mO2EEToCWntmPc1pCh3HHzEI10KeIOvjMEiBXYarzwlNXVAuiKX5QiPuHoePOz1BvpbtWaOH0w16MWVwKjQ7SdcIeqhfCrrgitGJBC0p9ocBR71ZBPGMgEBW3BJD~ZaV~t~KSxc53WxhHBNgw6f0VFopj2q8yVxXyq~3cwLq~-093uQTAgwdxyl7pN3xLsyxuIDuaMFbhDL4Rzvd89WHAB1rSSj1tg44-NICHhPLm7JHQUojHUyYXP0dktXNDStQAgiy0ZZE9ndQYtDq-8OtNWB9fngznzP6iViIeg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 39
+    },
+    {
+        "id": 5521420,
+        "title": "Users Microservice",
+        "type": "chapter",
+        "order": 38
+    },
+    {
+        "title": "Setup",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-45-05-d6d84a1f1031bd668ac0891d7ab3e4ef/1/WebHD_720p.mp4?Expires=1665745916&Signature=YRmndL7rJRa-Qt~bnVS~wWpQ1HtIRLZIY7G5IknbwcJ5B3L3c9THO-IbzmplA4QTRAkMzyCkJGGJXJspHxh~CVqaaNfA0p~TcSvlQ3hQTSToZkqrarJxrn7-8X2m4mC~Bb7hGymkGC9hXDpYGjCrR4CYaR--ql~ajPOwU4Esc850IX8bPK~513EhpNYFm6x0lPnzBI1z~hGP5OuWkQ58KxgPqf~3ZqEhiPuusuzuCDLzbbzRyGyeWpeQ7hvDgxU4j3aWxECY9frk3beTvzr02yVRbcTs8n2ItAH7Juw3h3~ow5EHpPYw4oUIfKf7x-JDLm9FPW5ITzC~KE5ijTfucg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 37
+    },
+    {
+        "title": "Database",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-45-05-c486361f7e38f93822e630d072d06dc9/1/WebHD_720p.mp4?Expires=1665745916&Signature=HbvIXm2ejX~B-FqaLopBTPjaaQI09s9jRK649XfPz0rnLR0W6zIqxWd~5suw-~oFnJ59CNtjeaRXysaeLzc2hbsIy~O8TR9ZQSbnNCY376ZLpH2Y9rb8XapGqkiT0OpucXgpRNgMOYgidLiEuNRo512CF8144kPsD1zw1tXuUTwST-flLJ4SKl0mexRTIjNR7v~YmATUrGEBN6E2XbQ60rCZv0A-jRJqz~stOhmbJrc-ADbtu6ayNXPbZk2TQK1EjcQ-c8DPss7rDzGbaFp3SP2dIVPvl-W723ZjIrW2kqHp1dK~Dpih50OICYZU~p6KXSUTlvLcvfQCPwh1eSNm6Q__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 36
+    },
+    {
+        "title": "User Model",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-45-06-356756b92de6cae6e799299650eb0c4d/1/WebHD_720p.mp4?Expires=1665745916&Signature=hvlLteLZs6o7XA159Y7bqnzzyoU4NsG5t6hKUTia8ZF~v4T3xDFykl3lP22ud7qgUnlPOcSfvx01adpfNFwBSQ3j6ekRzROV7CgqKGkrguf5YK3hBCsoYhZzGQlK-ETQDsDl118clF6YZg~tCyjFH72qYr-PjvP3p0DKvKIdnro~iBc8aPLqK~GlcsPD92kTkTKrsHrydqc2gj3~bU1g40FysGkAFY9nUv9YPohwao2NIYXuLbiduQ3TKy0TWb0l6kmBhVgXJit~wvxmhm5Tcl9q418fEC2BftzsSPszSXiZFHHaY0Hd~Pkus5wcKgkaCvz3zvPVskef9UREZ9LChw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 35
+    },
+    {
+        "title": "Moving AuthController",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_19-07-11-34ba93cb823b154bd6b615f09d6ade87/1/WebHD_720p.mp4?Expires=1665745916&Signature=LehdOk3bpGhYunRhCd6CupXHSLZz7Epd4AptknEgiI~Av5GjZRitbAJ9yDdo66eYOUCpxjXUzc5xlNVL3srEyVYx4ULuqUlNLM4OKJx8U4~m~putnyGaH98A7M9nlm6XmveDKd~zpburTK59OU8Q-20WfMCCIV7GFVRhSVjbNTq7yz~IlrVY~P540nGU7bd~apDX5K-D5Grrxxid~-AaLTfBMRkOwVqihuvgDPUsR3jwzTVbpJbS7lgod8Bne5JMzFSeoyU-QTIITadZUzbQdGMhgIyARJnQpZnYfraw~9dQFn-Ai2CYYDuQgIhisgMzJ-fM~Vuldeu5Ld19mN0b5w__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 34
+    },
+    {
+        "title": "Importing User Data",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-45-05-59d4818eebca1e64c322edc8cdc41b25/1/WebHD_720p.mp4?Expires=1665745917&Signature=gfWtXIzxJEKySVUdRJNrQGMseX6DvBvV2Y5u3pwLkkgmzqcyFsZYtGkKeA5gGEiQ3JrS0~s9-q6aWoIYguU5JjerOR1DY~vm40Rk0ZZHELqigV5MGzjW6077qMDYIEvxUwanW-HQINcpGBki6Z~VT5pvnVtlTd6nmgoggfAdB~l3n2LFc29PeXjWimAO3Ek25YdPHYoTRa3DcUgUO-k~ujKtvDmwZ784nBP-q2Rvc6epHrDSX6R3QXkQDrXwpUHXYsaQ5Iy7Lf14DI0-BFMFY~XndXd~Uk4OdFq2wy5vvZd4JVYFUfNfkf9psQqyUTbu19TmRVCJ-46uSqhXu3d4JA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 33
+    },
+    {
+        "title": "Internal API Calls",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-45-05-cddc4f970c9741d02a3efb92c71b6f3c/1/WebHD_720p.mp4?Expires=1665745916&Signature=jl3fA-P-k~FCmJ6cel1oGDofUV5p7lIejeyDwp6Bk28eQTyJbCdQE5JgK8TOeujP~7O153lSm1UWSZvufNyIG~MlQyeT2HJTzbR9zcQaJVmAuuzlxHXPjK4pNJZz3IJAsUb2yDvQQ0N0e2hdrM6ja1WGhO6QfIheUqoIZVuWd70Hw--Odvo4x7ogOkJiQFhh69qDISpzYS~-Es7qFv4azsd8wwB~zkW4N9utJu2qi-Yk1Dv-5UOk1TFCTz3mGlBFJSzYCxcs5UIJ~D4icCfWrYcDRVO4YtlI0OrJmj~JV1q5bHnlGtDk-hGqXLP3FKCalV7cGWJ3IjwKFLtaSkF56g__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 32
+    },
+    {
+        "title": "User Service",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-45-07-3ef42995fe99ef329eaab84b6dd4e373/1/WebHD_720p.mp4?Expires=1665745916&Signature=CZtjWXmJkXMM2~0leY4JrGStJtmv~M8v9w5xqRLx6JC92GQopDhCj0QhdxO4jPzKrZZ8BlmYrw81O0jFF~FEmWBuPKOymO1KOfuswzrtF7xW12YC0RF1I2hKTetebpR8KZuAPaj0xgJnefb9ZRV8TtKFEK~ZNi84oqpugTeSM0YtdSfx8NJTCU53I0yBMOzpA2LDSxtg4c3V4mL3bZozAi8JPNCNmM2v~f2jrQgCkZjyI~Nfhnv0autySUeXnXdUwAbkwzLpmwS6S5~xSyBeQSMg6DV9nK1NvnHaiGm~KUE1~fk8-PMnkHl1yKvold1-3N~IAuVU3wq5JHNThL9UnQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 31
+    },
+    {
+        "title": "Scope Middleware",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-45-05-615e6c553722155e2f4f303a7c9c0a90/1/WebHD_720p.mp4?Expires=1665745916&Signature=l0Vsp-1zCl7RKyfequm5usGrUVyGRuanr7KkJnDE28Z8gp53timznygtYXR-aJ3h56-Ey0hbDUOwMZu0w5GGHrhOR5NOjQyk-HQ0GY0mUIP-4xD0Efe8QxcZK2jftEB0YF5BkMllMtIrH7TNzoG6qfAYzvE3VaJcjvBxdd2ue-TiTA6QuLFSo94B73aq~nkmD4peJC5~nUlcdClimyjwrQXD0SLLO6JzojhBLq6rpMaZed5j3xIVKuj28pe1gONnJivEWniPae1LibnlDkx8IbOGy8QGaFi2nPF-BA~JfzQMREoBQlO4ztE7m74XoZkSD0MrgDQrTC2yIlyclWPSiA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 30
+    },
+    {
+        "title": "Authorization",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-45-05-d12e11445d39d5a37dccb837279da061/1/WebHD_720p.mp4?Expires=1665745916&Signature=awuMvgzjAj-OyQ4fSJaFL0fP0FtXUMTv~68aTPqkEvBz~evDWLUYr22ietl~HgEsHlHLEpbFdx9yZnCac8siXPArusbp1BqH1pBgjMobZ6rRbzeU2V3bKtYqlV~oy0Y8TKeDu20rzXBpuTMTvJCo4qrkJjGmEAYhm5LFiBmeYGA9L2KY7TsZWj3GEmpQP0flLSRo8yynRn2DCqEfB~lURRpKvsuAKVHHrctfweHrb~mKaLyC1XxDSb22CvN3my1o-aq-QLAOwQLM3e6Us9ZloilWt2pMb0A9RTRAEEAy-c4PQbO9gwDsp7tUUrK3K8oJbE2Czjecbr3mReGk4eKlIw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 29
+    },
+    {
+        "title": "Moving Paginated Users",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-45-05-90ab93ccaa278be3eca9e38115e2603f/1/WebHD_720p.mp4?Expires=1665745916&Signature=bna-NeCOQ06uLC04~~TSCSrjF-GLtfJ82fkpun-KsCe6m6Vukm41oPMhx-T4AY48pI~Y1OGfw-yu8oRTQWsS0uB23SMOcMJBouZtm0Yss2zxg-xBPk0501C0QQaPW4ggHdDqzwwe4ZRajxLuyHvL~CFByi50bABZTpFW4LS4OwoqvBQZyRTqdQZI7K~VoM3gzUr-KQA2Qrxu3bcWXVvpmWceqcAW3u9NF~61vuROVJsf0~uG1G0SOvzftI5jGmCzevbzfOhVVoEskskGQ6KMWLq28grDSOSwjmQIR5S7E9MkLtZufcau9xtm-tTiKW1G9eGYr96dCiXhXJq46ZOJIQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 28
+    },
+    {
+        "title": "Moving UserController",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-45-05-979657dea8cbb16ac48f31dcc924ae31/1/WebHD_720p.mp4?Expires=1665745917&Signature=WH1UHog~X1j5F~RsVJmQGwQej-EvTqr2pvE0RaWG7XnNDm-oG5gJDavhWUWBjpIbqrO-KiSHYA-MeLZ2qJN3eHaMoPg~75GKBli0txsEQUF9-MRaSUam7Rg0NDhcWffGXGYgaXY2RXYU9qb0gpg7R3fZ9PQ1zhkANeGe5lz6hg~6Ew5bASR8D0jyibyUK59cjICeBneFCzc1gyL~3NeG1CzoT2l730ygukqjPuThEUKrlj3uBzGPqCuyq5F3gKLb2CcYecGFhcCfv1nBVexmlSP6xBRhUbiCT-RWssv49ELdhZ-i1tkURp~R~3Tl3pGmfAssZUD-xLivfrBTDuNtLA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 27
+    },
+    {
+        "title": "Removing User Instances",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-45-05-2711b2b16e0f91783c747f6851816a12/1/WebHD_720p.mp4?Expires=1665745916&Signature=Y0135dVtqcZdwVO9wMnXkGVgC88qBDdXyrgsXVx24QSPpbfeFk3AM0e1guVPMLFtchxD-P41naw2qOdI08n85UxwuQdFpmnirVXG-4Cgi2y5XikS3X3llwo6DxE~BLlCfym1-iopxR7ZGDmnWAutb8OyjI9wPAWlfHzhMU-afqkkn8iz13A0ehNfgztFQ9E-K77EJ52KooDmxdALtOPOwlj3NIKVTU1PH60govZzUiz3ArP3EFbwDi81c8Q-oZxgQdL3OA5d46uxBaVtIZNbSwstHRz6MInNvhmawSlNmp3Nzxh9~hmWUdfuJQ-PBUTE5nXVyh8qeuV0Bhi7TRZ4pg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 26
+    },
+    {
+        "title": "Filtering Users",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-45-05-827787c4e0fe2b9f02879dc62fc54a43/1/WebHD_720p.mp4?Expires=1665745916&Signature=PcKcotIiVnKobvhbKNsFpv9Vro0PVSmqecamM5MfDL0CBs1s9g7XdaDjaoY9EA6LX~-7w1RkXZVS~xQtxum0~MlNsnAVBff5ddLadAxl1M0Xm8pe7aDI4dHScKVvG2XGaBIHn~aq6mJqbB3wXosKacFYM-xKkqO3n8bXKcoXz-bSxUMdSJDL8ELox8PmSz3zqKKyIcU9mfME2zXF5H1Wjx4x~LceS~XA6nHjW3sVLt1wxRzTLtvZvXNpLwrqOaw0Z-S2PPefvqc-n-sUA1HVQGRsvG5ZKAEUdiFUZe1X1PjT96nv9JndLypvvtj-P5OBp6tDyDXLhlVrrm3DnUPDoA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 25
+    },
+    {
+        "title": "Refactor User Class",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-45-07-e44285aee4809bc172e45a2444bb95ee/1/WebHD_720p.mp4?Expires=1665745916&Signature=EP9UQsh~ZtxzZJIkNhh-u06lC3ZW0EqWp8ZnzPJbKZK7wV8nWaGbkT9JxvciZdRU1IXA543vw6~2bTo23go~f7nP6zZjGqs3Aqo1mj9TmHCFQwEsBDr4hhs5JkxBGRkAh9A5JuZ~0266WyuCmZ9jEFyKuI5x5K3IS26eZYo2Zzr0psSQeGV~C3mHnmpuLrgMFziMEnKL07Kw6~vyXq1~sstHNMs5v3oraKOVAW4j7793zQHdX~T-hGrNfcC0Uunzzhf9pHespSzVGhslzh-f2Bt~Cx0fDtUdrY8DXKFA4zwYBirXmQTuId4x6lCfLGKNpAmT1Ct1fsKwInk6CDuFfQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 24
+    },
+    {
+        "id": 5521444,
+        "title": "Checkout Microservice",
+        "type": "chapter",
+        "order": 23
+    },
+    {
+        "title": "Setup",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_14-45-05-627dba55da884831e54f90b5517733a3/1/WebHD_720p.mp4?Expires=1665745916&Signature=PrerDkb3VZ8Ai4ZdfSwUKLWNAPIZjCPFvaAKj8mNGzC-6U8ktP~vlwFnkTpq95GC3SVc5o~Z9tt9QvCMqgFJGiTbwCYGlypwuqRjsEI6iEq-MJcDRQKAQ-AEn3BeuXfue0rkdGaHyDdGw~Hkn4QJynnPu1Rz7GKubzVTQThWIT-Vyjt6tOq4MDv5FVAwDJWbxLN0SA4n3QNwqlml7AuXFhVvb7jolB4TUQVnKU2DDJfYSfwI7tFaxE9T8Kp04ovteRinoLUVpbmbXfGnpVyq5IrIyGmtKw4hz7jTBpc~Hs96xakQAGBECvsWZeqyUVahwBLgyzInfxS46MJfSTOAPg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 22
+    },
+    {
+        "title": "Migrations",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_15-44-37-46d69ba52bb9c96400258adfe0aa3359/1/WebHD_720p.mp4?Expires=1665745916&Signature=k7dqeP-uUB4VDttnFPjtr94OWtcIz5xD0OQA~6DRrJrNXfm8~EDO4K9BI8XxHjzr9J0mn4MgXJJSgID3K6EZ6OMebGimil9FaogKJ9MlBnAisojF~xvCO8BqVIlkOLIUoSfk-ocH9dE461tO47ClDgvo4AtG8FL-6QQV9VD8Xr~U-1oXT1K5ngLMHmFxd28CrmRb~okvZHVvJiFS665brcAtItTWHA1y9VW18focUcdhReAkAww8fb7tf6Gw8eZRBe~1zcH2ZcJa7XdL7oJj3BQU2mqF-XuWi3phs~6NnZcZd6b3xw9~6k2d~oqW2r70spaG8sz5x-Hh3JE-A7n8Iw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 21
+    },
+    {
+        "title": "Docker",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_15-44-38-15019f480431ab249e434e7ed6fa899a/1/WebHD_720p.mp4?Expires=1665745916&Signature=aahMfT6mkjDiCGkeZ3G3WwY0IA-dgi5aUIMEJ6meqfMKySIxDgJ5fI-w0jEk4M5Z2zCD5m5JOsgYtzUmezubhfLEjDaBW~8yu4geAqlqDm1YHuPaIlDli1uFcoXRzxLzIPkefvfnN0FA8nzM3AoyT8DlRb1r-yS-fpxwgmbamou-bUFKykHXSXvdS5p0h2tYMW4zdGS0-uf9ac2hAjLeL83Le4x6bTsSca6brlTz6UzZ2T2RC1FM21dCFv5KacVBAia1XgkzBYpFJKMTTkpimDYA0HZju5wlRtPU6Ig8hnIcORYt2DwtfCWhAN3qcN0koYbNHmltwy6fvpKZkNlqeQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 20
+    },
+    {
+        "title": "Importing Data",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_15-44-36-a26935ceaa91cdd6f3d3e83dc08c5f17/1/WebHD_720p.mp4?Expires=1665745916&Signature=UFRvrC63UOI3EnzNdyxlqizHZ~2tsfw2GvTBhtSjv52XWjHaeuMdn4l0q7rrRTiu0f4m4ViJepZMfDRpYVBUjiYqg0U59l5sdatspoR-cm3ChNai2xQg8fZDQzbzKdVIJ7xoT9k3dViZpCRgaDGeOOCUE-lgdJ5d1pD3dWxOIlRpXB3oqnlBqXrOOGGFiEBIariwLS~QKemVMYGNQOiANUapAGrzZXUDFqkkVG3OTMcHVI0uomFUW4t~qLR3g5L3lwyaTM4-qSbSwcZtxn8ZfuxQZFWQba8lmVym28-JqxgHkb7JxFwFZY5ftbOj6hTR80dV~~8CthDDHEGm--t0BA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 19
+    },
+    {
+        "title": "Moving Controllers",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_15-44-37-3f78c386e9a968528b33ab73a645d66a/1/WebHD_720p.mp4?Expires=1665745916&Signature=ZUin6pi-iYHe7lmqMFaOQPyPC1RPWXCXgfBhZ6FmfHmPN1Ewz1uiAFPxtsdPGW9tgv2u~SMQ1cZ5AVI37jGArCTgFdpeb3j5SlpkTulrwYjmcuRvLU9-vID3anac0cCQrYWZYHReH90lnlqheZ8cThL-mHwcM2fadB48ccfXpAHRiSImyIyktU8fWPCljmAwqN4EVBW6e8voxaYJ3-yxSNXbOxxztm1QRcC2h2gQymREanTFDDs1OtI0VlvgBjnOzLzd8uvj1RVyodEQ4LtckPxJlqTEu4Hmru~cf8sFKDz5Hs-nzpy8uZEws34jtxcBESCtCygs8Xph2NUZFXV~xw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 18
+    },
+    {
+        "title": "Upload PHP Libraries to Packagist",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_15-44-38-de3a404fa24cae009f0c41cf4228087d/1/WebHD_720p.mp4?Expires=1665745916&Signature=CWg8Cwsh8OKz9DiYtgPHvacJS-usa82MpZvCyKDDhQ66eUwbmBsza30hdkKK4b-7stj4NnYOLzNq4TJx-TZ~cdH~USqspr74a-mL2Fh9QnjT3CT8vEGzF9FkgUwZHNJnJRMgsqk6N7Apxze4vcjHQPvyxejjhVF694BrN9ooRV2ryxJu2wjEakiDdIqoy~5asyehghAMWtgLIgrELqv41uhdDGHclPc7pAaqldTOFAV5KQ-Jb5tETpaf~d-pYUdiHzxjjG~gnTzZFFQqvqgRET4IXaIut2dCW1sVYtb5GR0e0s1H~NowCj4kfK8uHompLZYtsbyCnHfLtdmB77pCgw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 17
+    },
+    {
+        "title": "Listening to Events",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_15-44-36-e3972ae5709e195506676bf442148bd8/1/WebHD_720p.mp4?Expires=1665745916&Signature=HJ82RJ6b2P4pVCivLxfnhglf4CJxmlgH0guxJlX4IT98I~I3OKTequ5AalMbcJS0hYWqZTDjej8WMAmGlW6V0yZuDo4KOUSi1Y2se9f69es8xC0on1ymsWrmcGBhTRrlpRwWQyLIUSUFih6gFRaIU103f18z-jEhYu~bbmX~sIMGC2aP-qW~xtQuwfNBxN-Wn3k8Wxh4eeYPHKmYJbLONSwytjxfHPzsL9skCtPxHrWCy0jlhqGmDzDXhMLprh3gBrlzxzDHM2LI-iDspMMUtT7rjdZyoUqmgv5j1CAI0xlyPYCt3c7ryZf05-HboEn3mE-lSxmVgeZ54UZTsscKDg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 16
+    },
+    {
+        "title": "Queue Listener",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_15-44-36-d7889de4f1fc5f4a88e0e6fdfafe243e/1/WebHD_720p.mp4?Expires=1665745916&Signature=Ob8FjU7MRqo-1Mq9pqspxiLO83zHy-XXtSW10iGpOmKX5NTO138VKRmBvLO7pNOLzK0nSMBJvwW1eFgqVsaXvW4Zcn3zbaWWpMHUEeruF0soUtikIT8rhRXO2NH5nsIro2s39JdwexCUnZV~fcJ93zin3kIHTyEqCPrqAv8-BbH4OMy~zLpl7zcyWbKFKk2hHGlfxnCIO25zYsZkhCUS9CnpcfZ7ko1VNYn9W5G2K1jGRSR58k8E4rBlHWExsYQzium79ar7of-qJnVVeHvUP06QAJW1wD5Z-rF790M6wgD4lPnrxfGdXzN84hRCyUsf-TlJz8s-9l7td1Nrt5q3RQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 15
+    },
+    {
+        "title": "Publishing to Different Queues",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_15-44-35-391d6c1ac47b0fddb44a640cc9c079c0/1/WebHD_720p.mp4?Expires=1665745916&Signature=ReVjlnGcv6o309Cu8sUX-x3D-18vWDpJTYAbbY49nOgi5kx0JcDgwy46H7j0lFwuh4DAIaP0kElWuQoAZzBs1Ji7C46JSId-5FFFEeZ8TsyiKXkVRqftEbt61~uAvS4Mym5-9e5tqjfkcsu9uH6Wq7VcCMuoJzBRE7Wix0bjnoSs~GwD6DP6Jfp08kFT0Eig7qQlcqGB8cCduoED4iWu2KGux0omIElwgM6h0gSTzPvwl7DM-WRonXpPuekK~BfsIE-aEom5gaAEzasMsuQTF6Wn-pPMnZ5Z0aJht9~jwJL4wz-4SVl9BPAE-OKlUlTXErm6YMbrZwlQBpCP7oWmtQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 14
+    },
+    {
+        "id": 5521450,
+        "title": "Influencer Microservice",
+        "type": "chapter",
+        "order": 13
+    },
+    {
+        "title": "Setup",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_15-44-35-051b842cf6f76e92ebb15441b0a07b62/1/WebHD_720p.mp4?Expires=1665745916&Signature=cZouJ3Y2ynXJvlT7AKI45~zfLGIX-54kBOQDa9f3FKDgvBkUTaam4vimKeDBUKynXak2CmCoq-az0i7600J4VKkkQ85de3XEE9UCWaMYaQZjuesESJS3jjZ9kzAziyun0q4ZfeeRTnUF35526WgrvuFBKA-reoJxFeVDW~xeW~L5mQiJVEw-3z5qad6-hyyGRqEeHOafAdPi-wwcmC0301MU1RC-Was97hLTYfmnoLNjwqaYlXUxb1HEBcsDF6EG6n7PnasgkvgT9uFq4oudDVlTowAjrZfgiN30Nrs3ShaKdLVVmD~IspZZHPwPs0aKuDh3oJjnrzlbT4lvltzNdA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 12
+    },
+    {
+        "title": "Migrations",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_15-44-37-c8a6d605b8335dc844e31aabf21dff61/1/WebHD_720p.mp4?Expires=1665745916&Signature=QVQbIytuO2kKnN8b2w906xf9qC~2lO85f~kxctf-GhdcoQ5cj03KiPp7XmnL6MHmQjZMSHwcia-MtmZa4vK4Dvx~XzT4~pyIO7ksbMQpNhYZlFgEk0E2OQE-dZiQgbNos~w79V~WjUPazirVMqiBOokJm4m4~9Jv-ymhJ~LlD1Hf71MVfKmFbzFBU9EDPgpTWF4GxKIxpXm3dFL0MWlN-RRHy-IKHO6-26eiQpKC4BzGcN-WKss0v0bTo4PRTLoxaT8wHaXkmL~kisaHVSABGTRV2CvKhXMPJUD9pGz5hHFlSfOLgDChrgQ4WUWAkvNu52xQk~rIQojA7IhHVlXRDg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 11
+    },
+    {
+        "title": "Importing Data",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_15-44-38-aea9468f80f15ca69ce676f3e3347707/1/WebHD_720p.mp4?Expires=1665745916&Signature=A-RjzeOrzyKu5uCxILDaH8gBu7mc3DUF10gjNq8pDlAbbkcJkVFGnDc7cKGprg7nqfLqak2uKCsbu3u1iz7PqEUOEkv-PbbXi~5mg3XCDUDvm8xTgDHrDrO11vyJiVKhKPm2L8iGDisfoC~UxLl9wOnsBewXqYJJCyCd0tr6Z773wmMV~7znpTmW9UtD5zPERZHupK0cq8mdsDVW05je2eQT1qOR9QIaen7e4cKC-6vVSnIntLiW1VGs7Nw9C1sVoSvYC6QTm2TldMbXmdTX7iLGKwmhvfenf~yFRuYok5PYg6LJ15qF0QaBpUE9kB1p~SPyXtuZK69IDX4LAalavw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 10
+    },
+    {
+        "title": "Moving Controllers",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_15-44-33-8d087510a001a5b3ce5c2340d88aa6a9/1/WebHD_720p.mp4?Expires=1665745916&Signature=SUpPHpatQe9eWF~9VrGAw~F9KHVTQJrixMpmg~EteS9JAIJ0RDMip2Mt-JXXeXD8sYSjYKaZBq0uUbEepZt2TCtN471d4neJU0ak08pnn7Dm8OQFLjhqTcp2fzWU6yYcaqtjS4LsJC~Ib6HPaxZuEvGAY5IPQLrSLfg7SEcSEkw0quTKE1FXnpHXSlB6tDGc6cIUBwTXwtNrQ0VQzUEBJz0H74w9587spLrZcPnizdZoMYv0AkwyouJdO8d0GbfwLKfX5s~cMf54SKPlix6yHpKumxDmtjYdTqVbumpXBtNhQL4B6YeIeU1BZO7u5nwfsoKHCcNAU01oub2pp0~Krw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 9
+    },
+    {
+        "title": "Adding Events and Listeners",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_15-44-38-d0c1fb5fb64bd1e711ef92ec694b90ab/1/WebHD_720p.mp4?Expires=1665745916&Signature=eMU4oCju2qaPO-2dkosnmz7eRRzvlgUWEO19Wa4uFcuEhONlYp9xLwx2ZvsicFPhvpBeAkREn8oUy6USCNY4clBy6sMne-qwV3AqDpZ~7qMGvawgGTooAvGqX2~HbgFwDmjbHfr7DEpqVZPMTAH2ANxGLa9XEydLV8f3M0Bga4XYBr~uUDGx8pnrYqNpUHcxglxQC6BQVAGch3RqVL-~qM-hxzYriA4064E21EDEpZm8RyfsU8TeFFGgfwgfHRnxUhB-ILQg0VR0sSWjQb1QHy3zMq5avb5gBiCLYq3G~8JKQl1nmh01eem-vsmX~PKWTwlygYh4g5HMcDoWIAgcsA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 8
+    },
+    {
+        "title": "Redis",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_15-44-33-09f3d57d3785a5576a94c345e6b71413/1/WebHD_720p.mp4?Expires=1665745916&Signature=Xq898gOyLH5LGZYZRQaOPrbW3ocKFj4PpmPlFWq5lI67nsFz4PpEA4UxqhoE5B3eYwiIQKcj2Jx4Oi78Pa4J6Hh4nh2J9jABJucRpC7hL-pNvcGLcjtD-E9emNEKjWLGnl4O6HJ~bV7STirl4lAgTQi1jf-LNhleDCUEyWAI9l-2nPGLpfS7zmwIH42xsb5yIr9K1L0C8ZYBQh1IodB8JMU0bAG90VFxdlMoH6pha~JAUtajvT8rQwz8aV7xs1dm2v61c~4Us4K1wvOTzyW7an76IgC7EFwoeTEUodqxchMxBr8bqYxAycaloTeFGtsg6KbOb74mKSCuLWjMwxonaw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 7
+    },
+    {
+        "id": 5521454,
+        "title": "Admin Microservice",
+        "type": "chapter",
+        "order": 6
+    },
+    {
+        "title": "Setup",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_15-44-33-fa609d148e040359528acebc4ffacae0/1/WebHD_720p.mp4?Expires=1665745916&Signature=aR1RkHvEsVz51nA4fXCsz~y1-yM8zs0nMx9Zkbl16-GdQpwXzkil2gwBA765RYw1WTBsLen8xeYwtljE3vinmRLxIOu-HekSM5ZaVVVb~DlNZ2XaVXwaFv8XNkS8nwAPC8PiDKR9VUSB-fkB5FQFYkcC~-2nhHJWk3QyCuGWE3297WyBuWD4n1r1sPf2AM~d93IB-hKzad-xDHqvURS9Q4Pdgs6xez31fPBDQ5tdv5ZpAMdMa6QtN3TutpJMIqUaFBH4EUA2fZX0MNJypZTlJVaiqzNxZUsx20R6sW0eGMb2fIjp-SQwMyao~vOQQZia05lJYXNznTHuP8qUgxA2lA__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 5
+    },
+    {
+        "title": "Importing Data",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_15-44-33-1cb6b9286c0af70a29c8c9f3f97dff51/1/WebHD_720p.mp4?Expires=1665745916&Signature=ks1f5Gx2B9zeM2oUMp8YbNvmGIoUaW3JhRoRjP2c8fYEJeSJlUM7kVrZX4yXD-Ba4T0CxzvilOAEUO0Yf4QfeNzPQeyaRJwU-Jvnju2sOI4p3OIggK4rPu2osSpkllkCtB3mYZeLrLZImbPhpL9hYE2bZW3KgE083KMxra4SL-mE49DDkoR2PyfFZnNgPRN~T3hx8L72xPDQUFm5J-B~7bs2R0x1-BfmjHDVmgjSySW05B4SUD1F5CIFgqHlZbWZ56vLvMzwz9np4nKK1P1vLsr3pkJQ8oRDUTmz2yTKhCT7uveWZQNRXOaYrndmBamUy0BYghenKHjJqz0saELaXw__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 4
+    },
+    {
+        "title": "Moving Controllers",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_15-44-33-a969648e919c5b5c959912aa10b085d0/1/WebHD_720p.mp4?Expires=1665745916&Signature=dEleaRfH3PVhZG-EP5gyjsXf0hLnu2q3Ikujecjx9PiaUXJLAPR-MaPKRYkmmyrfKLBhF3EG9VdQ5wApqX~G-xJ~lINhxfXCg1Hfi-jU2vrwAKrqpLP9vmPY5HgQTJIcX9cxOaOCapCtJKeMgJl530ePIj1Npgb935OXjcVpEjC6GwmkN8c7xsEV8~XGjzL-dZHoK4YucyGa6MgQVvAhNfmgRY53QflcaEB31nj8XqXomtngzzGyrW4fbv-hujGACfNA63GAlWkxJwDZ0Sq0hS-CLAaemufLW6nLlDbQuWygIQ7nNUZrXffJ7W8aUoDlQ524jnen6VlTwWyuQHyG-A__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 3
+    },
+    {
+        "title": "Adding Events and Listeners",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_15-44-33-b687ec1c0c62da1318744142b2b8bb85/1/WebHD_720p.mp4?Expires=1665745916&Signature=LkNfDMK3Pk84f1a~cPztXqQAcwp-JVRcF7wJ1HyUCJsCQkUJBtnVUMV6VK15tBseNevEn2wV5wWsMeoPdkCcHpEqBNFohqYc-Ibbo8sS2wahWUGZA0Uv7Zm0ehv11OlwcVeaKEPzlJq63jbmQ86-ZMtzoKlz~vwImMJSFQHHWF0nvplbWl3KDhKmDSzbYCGp3wWKChCNerQKbOT0JbM7XRkZckadvEO6WFKG10p6iauubFOIV145JFQN2qkpQbCTFAEuDQEXYaHI9S7JObB9DZuWgaZPdGao06qI4aiOu7VLZ7YGAHg7RBF1BLKARbbkOg3eM6OXMgWWbbDfOj1Ykg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 2
+    },
+    {
+        "title": "Refactoring Resources and Gates",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_15-44-33-9007bb386ee4d90ddb8ccf5cea6b4620/1/WebHD_720p.mp4?Expires=1665745916&Signature=SqR1j2Xw5y-Yy09~BnC3JULHUzq2YIQZiFSqOB6a2qMmR1FVxVaAubEozhViyDl~EYMu47r3OT0uOjT5eAP5Ngu~Qic6R9a5egVLXiWK4f85WLEw7gkibJXMp~Fpd2wf9zw1xK8~32jbrA8-1LXvaxCI3~wXI6olvYZxGfpCJ1M1rLvsPHrc6Br8NebcNpFhgublit1taeoNp4y9NIidktlTQuOLx4o5i2Fe9OzzYApCapV9UEHHsTBrNpdUXXYdtSSXJotgPdnBDV8gU2riSsLSqUZvwp-~Ksgslwl8MPA2SklEceDtorK--YOKRp448b3qOF7RLN3pkZCxaAkixg__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 1
+    },
+    {
+        "title": "Conclusion",
+        "url": "https://mp4-c.udemycdn.com/2020-11-02_15-44-33-857aed871f0b2bbacb94b2c63dc53012/1/WebHD_720p.mp4?Expires=1665745916&Signature=L3od8ZqfydreW7Z1t0HJJrWLdLAq3Je5XkPEv5-V8AWkOevQSIOkH7S3MU4vsOA78XwqyBVsqHnJHYq~itSlf6kacLT0ynnTM8DyjlfUDDWP~kz0wHbaalmL-ssJHNiRqYbx-eo1EBAjVCnaMOhQbZ78vKzg7iGqoR5mkXDvghVzbAkrp4iXnTOdUG11K7UqLqEpDIiSdmu18Ep68BWQcldHZQN9qt3RrPnJzbhfV98wW78JWN35RSHw-tzoPonFr-qCGasn6K2N3M4HGOfUrnRtwETDZPiH~SUFSdiVPymjuxc0RGw2-5iNKK5AfIGaWaKcdvo-clzNjleexbteiQ__&Key-Pair-Id=APKAITJV77WS5ZT7262A",
+        "type": "lecture",
+        "order": 0
+    }
+]
