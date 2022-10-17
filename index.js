@@ -42,7 +42,7 @@ courses.forEach((element) => {
     // after download completed close filestream
     file.on("finish", () => {
       file.close();
-      console.log("Download Completed");
+      console.log("Download Completed - " + dirTitle + ".mp4");
     });
   });
 });
