@@ -34,7 +34,7 @@ courses.forEach((element) => {
     " - " +
     element.title;
 
-   https.get(element.url, (response) => {
+  https.get(element.url, (response) => {
     console.log('dirTitle + ".mp4" :>> ', dirTitle + ".mp4");
     const file = fs.createWriteStream(dirTitle + ".mp4");
     response.pipe(file);
@@ -46,3 +46,5 @@ courses.forEach((element) => {
     });
   });
 });
+
+return "All files are downloaded!";
